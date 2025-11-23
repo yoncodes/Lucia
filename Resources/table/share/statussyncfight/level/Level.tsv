@@ -1,0 +1,66 @@
+Id	Name	Prefab	LevelType	LevelSubType	ScriptId	BgmId	AmbientSound	ResSolution	PositionY	PositionX	PositionZ	RotationY	VictoryShowPosX	VictoryShowPosY	VictoryShowPosZ	VictoryShowRotY	DefaultCameraId	ConfigGroups	DeferredConfigGroups	DisableSyncPlayerTransformData	ShouldSaveInstLevelProgress	NavMeshDataName	LoadingGroupId	DisableSystemFuncEnumStr	ForceUsePlayerSelfNpc	UiResId	SceneName
+1	Hunt Test Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1																							
+2	Hunt Test Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1																							
+3	Hunt Test Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1																							
+4	Hunt Plains Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1																							
+5	Hunt Plains Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1					2.0	13.0	-13.0	90.0															
+6	Hunt Plains Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1					4.0	16.6	-118.5999	-90.0															
+7	Hunt Plains Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1																							
+8	Hunt Plains Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1																							
+9	Hunt Plains Stage	Assets/Product/Scene/DlcScenePrefab/SceneHuntTest.prefab	1	1																							
+10	Hunt Prototype Test Stage	Assets/Product/Scene/DlcScenePrefab/SceneMHW-StagePrototype1.prefab	1	1	10				1.95			35.0	-48.0	-46.5813	18.3999	35.0		[10]									
+12	Hunt Tutorial Stage - Official	Assets/Product/Scene/DlcScenePrefab/SceneHunt02.prefab	1	1					2.0		-13.0	90.0	-54.0	5.8369	-126.0	90.0		[12]									
+13	Hunt Black Dragon Challenge Stage - Official	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	13	196			2.0	64.0	13.0		64.0	2.0	13.0			[13]									
+14	Hunt Black & White Dragon Continuous Stage - Official - Story	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	14	196			2.0	64.0	13.0		64.0	2.0	13.0			[13]									
+15	Hunt White Dragon Challenge Stage - Official	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	15	197			2.0	64.0	13.0		64.0	2.0	13.0			[15]									
+16	Hunt Black & White Dragon Continuous Stage - Official - Multi Clear	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	14	196			2.0	64.0	13.0		64.0	2.0	13.0			[13]									
+8000	Hunt Universal Test Stage	Assets/Product/Scene/DlcScenePrefab/SceneMHW-StagePrototype1.prefab	1	1	8000													[8000]									
+8002	Black Dragon Test Stage	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	8002				2.0	64.0	38.0		64.0	2.0	38.0												
+8003	White Dragon Test Stage	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1					2.0	64.0	38.0		64.0	2.0	38.0												
+1011	Magic Square Bounce	Assets/Product/Scene/DlcScenePrefab/DlcSystem_Casual.prefab	1	1	100	258			0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699			[1011]									
+1021	Magic Square Bounce	Assets/Product/Scene/DlcScenePrefab/DlcSystem_Casual.prefab	1	1	100	258			0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699			[1011]									
+1031	Magic Square Bounce	Assets/Product/Scene/DlcScenePrefab/DlcSystem_Casual.prefab	1	1	1031	258			0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699			[1011]									
+1041	"""Hide and Seek"" - Beach"	Assets/Product/Scene/DlcScenePrefab/DlcSystem_HideAndSeek01.prefab	1	1	1041	5011			4.78	1.5199	17.37		1.5199	4.78	17.37			[1]									
+1051	"""Hide and Seek"" - Indoor"	Assets/Product/Scene/DlcScenePrefab/DlcSystem_HideAndSeek02.prefab	1	1	1041	5011			4.78	1.5199	17.37		1.5199	4.78	17.37			[2]									
+1061	"""Hide and Seek"" - Supermarket"	Assets/Product/Scene/DlcScenePrefab/DlcSystem_HideAndSeek03.prefab	1	1	1041	5011			4.78	1.5199	17.37		1.5199	4.78	17.37			[1]									
+1071	Auto Chess Stage 01	Assets/Product/Scene/DlcScenePrefab/DlcSystem_RogueBattle01.prefab	1	1	1071				0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699		810105	[1071]									
+1072	Auto Chess Stage 02	Assets/Product/Scene/DlcScenePrefab/DlcSystem_RogueBattle02.prefab	1	1	1071				0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699		810105	[1072]									
+1073	Auto Chess Stage 03	Assets/Product/Scene/DlcScenePrefab/DlcSystem_RogueBattle03.prefab	1	1	1071				0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699		810105	[1073]									
+1074	Auto Chess Stage 04	Assets/Product/Scene/DlcScenePrefab/DlcSystem_RogueBattle04.prefab	1	1	1071				0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699		810105	[1074]									
+1075	Auto Chess Stage 05	Assets/Product/Scene/DlcScenePrefab/DlcSystem_RogueBattle05.prefab	1	1	1071				0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699		810105	[1075]									
+1076	Auto Chess Stage 06	Assets/Product/Scene/DlcScenePrefab/DlcSystem_RogueBattle06.prefab	1	1	1071				0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699		810105	[1076]									
+9999	Sandbox Mode - 3C Standard Test Stage	Assets/Product/BigWorld/Standard3C/StaticPrefabs/Standard3C.prefab	1	1				1		20.0	20.0	180.0	41.4599	1.0	48.5699		810102										
+4001	Babylonia - Commercial District A	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/SkyGarden.prefab	1	1	4001			1	144.5858	573.0999	1340.281	-59.1599					810102	[4006, 9001, 2003, 2001, 3002, 4010, 1001]				SkyGarden_merged	1				
+4002	Babylonia - Commercial District A	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/SkyGarden.prefab	1	1	4002			1	-1.0	11.758	13.3051							[4002]				SkyGarden_merged	1				
+4003	Commandant's Lounge	Assets/Product/BigWorld/SkyGarden_SuShe/StaticPrefabs/SkyGarden_SuShe.prefab	1	1	4003			1	1.646	11.925	13.3051						810103	[5001, 5002, 1001, 4001]	[5003]			SkyGarden_Sushe_Main	2		True		
+4004	Cafe Mission	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/SkyGarden.prefab	1	1	4004			1	144.5859	575.5166	1338.368	-54.643					810102	[4004]		True		SkyGarden_merged	3				
+4005	Shopping District Mission	Assets/Product/BigWorld/SkyGarden_Plaza/StaticPrefabs/SkyGarden_Plaza.prefab	1	1				1	189.36	580.63	1187.0	-54.643						[4007]		True		SkyGarden_merged	4				
+4007	Shopping District Mission	Assets/Product/BigWorld/SkyGarden_Plaza_Show/StaticPrefabs/SkyGarden_Plaza_Show.prefab	1	1				1	189.36	580.63	1187.0	-54.643						[4008]		True		SkyGarden_merged	4				
+4008	Jumping Challenge Mission	Assets/Product/BigWorld/SkyGarden_JumpPlayer/StaticPrefabs/SkyGarden_JumpPlayer.prefab	2	2	6001	205		1	36.5999	243.6999	322.7	90.0					810102	[6001]		True			1	1|5|6|7|8|14			
+90001	Auto Chess Test Stage	Assets/Product/Scene/DlcScenePrefab/DlcSystem_Casual.prefab	1	1	90001				0.6999	41.4599	48.5699	180.0	41.4599	1.0	48.5699		810102										
+90002	Relink White Dragon	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	90002				2.0	86.0	40.0		86.0	2.0	40.0		90002	[90002]								2	
+90003	Relink Training Dummy	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	90003				2.0	86.0	40.0		86.0	2.0	40.0		90002	[90002]								2	
+90004	Lazer	Assets/Product/Scene/ScenePrefab/Scene06203a.prefab	1	1	90004				24.6569	122.4	115.44		86.0	2.0	40.0		90002	[1]								2	
+90005	Tutorial Stage Relink White Dragon	Assets/Product/Scene/DlcScenePrefab/SceneHunt01.prefab	1	1	90005				2.0	86.0	40.0		86.0	2.0	40.0		90002	[90002]								2	
+4009	Jumping Challenge Mission	Assets/Product/BigWorld/SkyGarden_JumpPlayer/StaticPrefabs/SkyGarden_JumpPlayer.prefab	2	2	6001	205		1	38.9199	252.58	241.96						810102	[6002]		True			1	1|5|6|7|8|14			
+4010	Jumping Challenge Mission	Assets/Product/BigWorld/SkyGarden_JumpPlayer/StaticPrefabs/SkyGarden_JumpPlayer.prefab	2	2	6001	205		1	55.4599	250.82	270.79	90.0					810102	[6003]		True			1	1|5|6|7|8|14			
+4012	Heartbeat Memories Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel02/StaticPrefabs/SkyGarden_LxyStoryLevel02.prefab	2	1	4012	5000007		1	143.6056	81.8611	96.9279						810102	[4012]		True		SkyGarden_LxyStoryLevel02_Main	6	1|6|7|8	True		
+4014	Relocation Scene 1	Assets/Product/BigWorld/SkyGarden_Scene001/StaticPrefabs/SkyGarden_Scene001.prefab	1	1	4014			1	1.2599	56.4799	80.0699						810102	[1001]									
+4015	Relocation Scene 2	Assets/Product/BigWorld/SkyGarden_Scene002/StaticPrefabs/SkyGarden_Scene002.prefab	1	1	4015			1	1.5	6.9699	32.4799						810102	[1001]									
+4016	Relocation Scene 3	Assets/Product/BigWorld/SkyGarden_Scene003/StaticPrefabs/SkyGarden_Scene003.prefab	1	1	4016			1	28.125	61.3699	110.48						810102	[1001]									
+4017	Relocation Scene 4	Assets/Product/BigWorld/SkyGarden_Scene004/StaticPrefabs/SkyGarden_Scene004.prefab	1	1	4017			1	11.01	69.828	32.68						810102	[1001]									
+4013	Relocation Scene 5	Assets/Product/BigWorld/SkyGarden_Scene005/StaticPrefabs/SkyGarden_Scene005.prefab	2	1	4013			1	7.8656	68.7214	54.5763						810102	[200101]					5	1|5|6|7|8			
+4018	Jumping Challenge Mission	Assets/Product/BigWorld/SkyGarden_JumpPlayer/StaticPrefabs/SkyGarden_JumpPlayer.prefab	2	2	6001	205		1	52.77	266.72	327.8299	-179.0					810102	[6004]		True			1	1|5|6|7|8|14			
+4019	Jumping Challenge Mission	Assets/Product/BigWorld/SkyGarden_JumpPlayer/StaticPrefabs/SkyGarden_JumpPlayer.prefab	2	2	6001	205		1	54.6399	378.57	290.85	-95.0					810102	[6005]		True			1	1|5|6|7|8|14			
+4020	Jumping Challenge Mission	Assets/Product/BigWorld/SkyGarden_JumpPlayer/StaticPrefabs/SkyGarden_JumpPlayer.prefab	2	2	6001	205		1	52.11	271.0	237.3999						810102	[6006]		True			1	1|5|6|7|8|14			
+4021	Shopping District Mission	Assets/Product/BigWorld/SkyGarden_Plaza/StaticPrefabs/SkyGarden_Plaza.prefab	2	1	4021			1	189.3381	605.746	1146.8383	-54.643					810102	[4021]				SkyGarden_merged	5	4|5|6|7|8|9|11			
+4022	Shopping District Mission	Assets/Product/BigWorld/SkyGarden_Plaza/StaticPrefabs/SkyGarden_Plaza.prefab	2	1	4021			1	189.3381	605.746	1146.8383	-54.643					810102	[4021]				SkyGarden_merged	5	4|5|6|7|8|9|11			
+4023	Froggie Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel01/StaticPrefabs/SkyGarden_LxyStoryLevel01.prefab	2	1	4023	5000009		1	56.59	20.9339	40.4414						810102			True		SkyGarden_LxyStoryLevel01_Main	5	1|6|7|8	True		
+4024	Heartbeat Memories Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel02/StaticPrefabs/SkyGarden_LxyStoryLevel02.prefab	2	2	4024	5000007		1	144.7299	95.0599	107.79						810102	[4024]		True		SkyGarden_LxyStoryLevel02_Main	6	5|6|7|8	True		
+4025	Mission Jumping Challenge	Assets/Product/BigWorld/SkyGarden_JumpPlayer/StaticPrefabs/SkyGarden_JumpPlayer.prefab	2	2	6001	205		1	36.5999	243.6999	322.7	90.0					810102	[6007]		True			1	1|5|6|7|8|14			
+4026	Froggie Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel03/StaticPrefabs/SkyGarden_LxyStoryLevel03.prefab	2	1	4026	5000009		1	56.5499	42.8699	49.8549	-136.5599					810102	[4026]		True		SkyGarden_LxyStoryLevel03_Main	5	1|6|7|8	True		
+4027	Froggie Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel04/StaticPrefabs/SkyGarden_LxyStoryLevel04.prefab	2	1	4027	5000009		1	56.5699	23.2439	44.685	150.494					810102	[4027]		True		SkyGarden_LxyStoryLevel04_Main	5	1|6|7|8	True		
+4028	Froggie Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel03/StaticPrefabs/SkyGarden_LxyStoryLevel03.prefab	2	1	4028	5000009		1	56.553	22.93	29.8099	47.0859					810102	[4026]		True		SkyGarden_LxyStoryLevel03_Main	5	1|6|7|8	True		
+4029	Froggie Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel03/StaticPrefabs/SkyGarden_LxyStoryLevel03.prefab	2	1	4029	5000009		1	56.5499	42.8699	49.8549	-136.5599					810102	[4026]		True		SkyGarden_LxyStoryLevel03_Main	5	1|6|7|8	True		
+4030	Froggie Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel01/StaticPrefabs/SkyGarden_LxyStoryLevel01.prefab	2	1	4030	5000009		1	56.59	28.4224	40.4414						810102	[4030]		True		SkyGarden_LxyStoryLevel01_Main	5	1|6|7|8	True		
+4031	Froggie Story Mission	Assets/Product/BigWorld/SkyGarden_LxyStoryLevel04/StaticPrefabs/SkyGarden_LxyStoryLevel04.prefab	2	1	4031	5000009		1	56.5699	23.2439	44.685	150.494					810102	[4027]		True		SkyGarden_LxyStoryLevel04_Main	5	1|6|7|8	True		

@@ -1,0 +1,871 @@
+Id	UiName	ModelName	CameraName	PositionX	PositionY	PositionZ	RotationX	RotationY	RotationZ	FieldOfView
+1	UiCharacter	R4YongyechaobotMd010011	CamFarMain	0.34	1.37	-28.4599	2.25			
+2	UiCharacter	R4YongyechaobotMd010021	CamFarMain	0.34	1.37	-28.4599	2.25			
+3	UiCharacter	R4YongyechaobotMd010031	CamFarMain	0.34	1.37	-28.4599	2.25			
+4	UiCharacter	R4YongyechaobotMd019321	CamFarMain	0.34	1.37	-28.4599	2.25			
+5	UiCharacter	R4YongyechaobotMd010011	CamNearMain	0.34	1.37	-28.4599	2.25			
+6	UiCharacter	R4YongyechaobotMd010021	CamNearMain	0.34	1.37	-28.4599	2.25			
+7	UiCharacter	R4YongyechaobotMd010031	CamNearMain	0.34	1.37	-28.4599	2.25			
+8	UiCharacter	R4YongyechaobotMd019321	CamNearMain	0.34	1.37	-28.4599	2.25			
+9	UiCharacter	R4YongyechaobotMd010011	UiCamFarLv	0.5099	1.0299	-26.59	0.856			
+10	UiCharacter	R4YongyechaobotMd010021	UiCamFarLv	0.5099	1.0299	-26.59	0.856			
+11	UiCharacter	R4YongyechaobotMd010031	UiCamFarLv	0.5099	1.0299	-26.59	0.856			
+12	UiCharacter	R4YongyechaobotMd019321	UiCamFarLv	0.5099	1.0299	-26.59	0.856			
+13	UiCharacter	R4YongyechaobotMd010011	UiCamNearLv	0.5099	1.0299	-26.59	0.856			
+14	UiCharacter	R4YongyechaobotMd010021	UiCamNearLv	0.5099	1.0299	-26.59	0.856			
+15	UiCharacter	R4YongyechaobotMd010031	UiCamNearLv	0.5099	1.0299	-26.59	0.856			
+16	UiCharacter	R4YongyechaobotMd019321	UiCamNearLv	0.5099	1.0299	-26.59	0.856			
+17	UiCharacter	R4YongyechaobotMd010011	UiCamFarGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+18	UiCharacter	R4YongyechaobotMd010021	UiCamFarGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+19	UiCharacter	R4YongyechaobotMd010031	UiCamFarGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+20	UiCharacter	R4YongyechaobotMd019321	UiCamFarGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+21	UiCharacter	R4YongyechaobotMd010011	UiCamNearGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+22	UiCharacter	R4YongyechaobotMd010021	UiCamNearGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+23	UiCharacter	R4YongyechaobotMd010031	UiCamNearGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+24	UiCharacter	R4YongyechaobotMd019321	UiCamNearGrade	-1.33	1.35	-25.6599	1.7139	20.6499		
+25	UiCharacter	R4YongyechaobotMd010011	UiCamFarQuality	0.5299	1.1799	-26.03				
+26	UiCharacter	R4YongyechaobotMd010021	UiCamFarQuality	0.5299	1.1799	-26.03				
+27	UiCharacter	R4YongyechaobotMd010031	UiCamFarQuality	0.5299	1.1799	-26.03				
+28	UiCharacter	R4YongyechaobotMd019321	UiCamFarQuality	0.5299	1.1799	-26.03				
+29	UiCharacter	R4YongyechaobotMd010011	UiCamNearQuality	0.5299	1.1799	-26.03				
+30	UiCharacter	R4YongyechaobotMd010021	UiCamNearQuality	0.5299	1.1799	-26.03				
+31	UiCharacter	R4YongyechaobotMd010031	UiCamNearQuality	0.5299	1.1799	-26.03				
+32	UiCharacter	R4YongyechaobotMd019321	UiCamNearQuality	0.5299	1.1799	-26.03				
+33	UiCharacter	R4YongyechaobotMd010011	UiCamFarSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+34	UiCharacter	R4YongyechaobotMd010021	UiCamFarSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+35	UiCharacter	R4YongyechaobotMd010031	UiCamFarSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+36	UiCharacter	R4YongyechaobotMd019321	UiCamFarSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+37	UiCharacter	R4YongyechaobotMd010011	UiCamNearSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+38	UiCharacter	R4YongyechaobotMd010021	UiCamNearSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+39	UiCharacter	R4YongyechaobotMd010031	UiCamNearSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+40	UiCharacter	R4YongyechaobotMd019321	UiCamNearSkill	-2.63	1.1499	-26.9099	0.8149	27.61		
+41	UiExhibitionInfo	R4YongyechaobotMd010011	FarCamera	0.37	1.09	-27.5599	0.856			
+42	UiExhibitionInfo	R4YongyechaobotMd010021	FarCamera	0.37	1.09	-27.5599	0.856			
+43	UiExhibitionInfo	R4YongyechaobotMd010031	FarCamera	0.37	1.09	-27.5599	0.856			
+44	UiExhibitionInfo	R4YongyechaobotMd019321	FarCamera	0.37	1.09	-27.5599	0.856			
+45	UiExhibitionInfo	R4YongyechaobotMd010011	NearCamera	0.37	1.09	-27.5599	0.856			
+46	UiExhibitionInfo	R4YongyechaobotMd010021	NearCamera	0.37	1.09	-27.5599	0.856			
+47	UiExhibitionInfo	R4YongyechaobotMd010031	NearCamera	0.37	1.09	-27.5599	0.856			
+48	UiExhibitionInfo	R4YongyechaobotMd019321	NearCamera	0.37	1.09	-27.5599	0.856			
+49	UiRoomCharacter	R4YongyechaobotMd010011	FarCamera	0.2199	1.25	-26.0	0.856			
+50	UiRoomCharacter	R4YongyechaobotMd010021	FarCamera	0.2199	1.25	-26.0	0.856			
+51	UiRoomCharacter	R4YongyechaobotMd010031	FarCamera	0.2199	1.25	-26.0	0.856			
+52	UiRoomCharacter	R4YongyechaobotMd019321	FarCamera	0.2199	1.25	-26.0	0.856			
+53	UiRoomCharacter	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+54	UiRoomCharacter	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+55	UiRoomCharacter	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+56	UiRoomCharacter	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+57	UiBattleRoomRoleDetail	R4YongyechaobotMd010011	FarCamera	0.2199	1.25	-26.0	0.856			
+58	UiBattleRoomRoleDetail	R4YongyechaobotMd010021	FarCamera	0.2199	1.25	-26.0	0.856			
+59	UiBattleRoomRoleDetail	R4YongyechaobotMd010031	FarCamera	0.2199	1.25	-26.0	0.856			
+60	UiBattleRoomRoleDetail	R4YongyechaobotMd019321	FarCamera	0.2199	1.25	-26.0	0.856			
+61	UiBattleRoomRoleDetail	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+62	UiBattleRoomRoleDetail	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+63	UiBattleRoomRoleDetail	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+64	UiBattleRoomRoleDetail	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+65	UiBattleRoleRoom	R4YongyechaobotMd010011	FarCamera	0.2199	1.25	-26.0	0.856			
+66	UiBattleRoleRoom	R4YongyechaobotMd010021	FarCamera	0.2199	1.25	-26.0	0.856			
+67	UiBattleRoleRoom	R4YongyechaobotMd010031	FarCamera	0.2199	1.25	-26.0	0.856			
+68	UiBattleRoleRoom	R4YongyechaobotMd019321	FarCamera	0.2199	1.25	-26.0	0.856			
+69	UiBattleRoleRoom	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+70	UiBattleRoleRoom	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+71	UiBattleRoleRoom	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+72	UiBattleRoleRoom	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+73	UiFashion	R4YongyechaobotMd010011	FashionCamNearMain	0.55	1.25	-27.54	2.25			
+74	UiFashion	R4YongyechaobotMd010021	FashionCamNearMain	0.55	1.25	-27.54	2.25			
+75	UiFashion	R4YongyechaobotMd010031	FashionCamNearMain	0.55	1.25	-27.54	2.25			
+76	UiFashion	R4YongyechaobotMd019321	FashionCamNearMain	0.55	1.25	-27.54	2.25			
+77	UiFashion	R4YongyechaobotMd010011	FashionCamNearest	0.3	1.5199	-24.0				
+78	UiFashion	R4YongyechaobotMd010021	FashionCamNearest	0.3	1.5199	-24.0				
+79	UiFashion	R4YongyechaobotMd010031	FashionCamNearest	0.3	1.5199	-24.0				
+80	UiFashion	R4YongyechaobotMd019321	FashionCamNearest	0.3	1.5199	-24.0				
+81	UiFavorabilityLineRoomCharacter	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+82	UiFavorabilityLineRoomCharacter	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+83	UiFavorabilityLineRoomCharacter	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+84	UiFavorabilityLineRoomCharacter	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+85	UiCharacter	R3WeilaMd019331	CamFarMain	0.1	0.55	-23.86				
+86	UiCharacter	R3WeilaMd019331	CamNearMain		1.83	-24.86	14.31	0.68		
+87	UiCharacter	R3WeilaMd019331	UiCamFarLv	0.1	0.55	-23.86				
+88	UiCharacter	R3WeilaMd019331	UiCamNearLv		1.6	-23.94	14.31	2.7		
+89	UiCharacter	R3WeilaMd019331	UiCamFarGrade	-1.33	0.6999	-23.76	1.7139	20.649	0.3019	
+90	UiCharacter	R3WeilaMd019331	UiCamNearGrade	-1.33	0.6999	-23.76	1.7139	20.649	0.3019	
+91	UiCharacter	R3WeilaMd019331	UiCamFarQuality	1.0	1.0099	-24.01	6.32	-11.6999		
+92	UiCharacter	R3WeilaMd019331	UiCamNearQuality	1.0	1.0099	-24.01	6.32	-11.6999		
+93	UiCharacter	R3WeilaMd019331	UiCamFarSkill	1.97	0.56	-23.43		-27.0799		
+94	UiCharacter	R3WeilaMd019331	UiCamNearSkill	1.97	0.56	-23.43		-27.0799		
+95	UiCharacter	R3WeilaMd019331	UiCamFarrExchange	-0.2849	1.7999	-24.84	14.074	-9.9569	-2.5	
+96	UiCharacter	R3WeilaMd019331	UiCamNearrExchange	-0.2849	1.7999	-24.84	14.074	-9.9569	-2.5	
+97	UiRoomCharacter	R3WeilaMd019331	FarCamera	0.1	1.2999	-23.85	0.856			
+98	UiRoomCharacter	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+99	UiBattleRoomRoleDetail	R3WeilaMd019331	FarCamera	0.1	1.2999	-23.85	0.856			
+100	UiBattleRoomRoleDetail	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+101	UiFashion	R3WeilaMd019331	FashionCamNearMain		1.6	-24.35	14.31	2.7		
+102	UiFashion	R3WeilaMd019331	FashionCamNearest		1.5	-22.0	14.31	2.7		
+103	UiFavorabilityLineRoomCharacter	R3WeilaMd019331	NearCamera	-0.23	1.6	-24.35	14.31	2.7		
+104	UiDoubleTowersRoom	R3WeilaMd019331	UiNearCamera	0.2	1.6	-23.94	14.31	2.7		
+105	UiDoubleTowersRoom	R3WeilaMd019331	UiFarCamera	0.2	1.6	-23.94	14.31	2.7		
+106	UiFashionDetail	R3WeilaMd019331	FashionCamNearMain	0.25	1.83	-24.84	14.31	0.68		
+107	UiFashionDetail	R3WeilaMd019331	UiFarCamera		1.2999	-22.0	14.31	2.7		
+108	UiCharacter	R3KuluomuMd019011	CamNearMain	0.3499	1.0	-25.1	2.8199	-1.71	0.5799	
+109	UiCharacter	R3KuluomuMd019011	UiCamNearLv	0.4799	1.0	-24.1	2.8199	-1.71	0.5799	
+110	UiCharacter	R3KuluomuMd019011	UiCamNearGrade	1.2	1.6	-22.79	13.56	-19.3999	0.5799	
+111	UiCharacter	R3KuluomuMd019011	UiCamNearQuality	2.2999	0.6	-23.69	-0.6999	-27.19	0.5799	
+112	UiCharacter	R3KuluomuMd019011	UiCamNearSkill	-0.92	1.96	-23.7999	16.04	16.6499	0.5799	
+113	UiCharacter	R3KuluomuMd019011	UiCamNearrExchange	1.0399	1.0	-25.1	2.8199	-22.92	0.5799	
+114	UiRoomCharacter	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+115	UiBattleRoomRoleDetail	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+116	UiFashion	R3KuluomuMd019011	FashionCamNearMain	0.4799	1.0	-25.1	2.8199	-1.71	0.5799	
+117	UiFashion	R3KuluomuMd019011	FashionCamNearest	0.34	1.48	-23.1	2.8199	-1.71	0.5799	
+118	UiFavorabilityLineRoomCharacter	R3KuluomuMd019011	NearCamera	0.49	1.0	-25.1	2.8199	-4.5399	0.5799	
+119	UiDoubleTowersRoom	R3KuluomuMd019011	UiNearCamera	0.4799	1.0	-25.1	2.8199	-1.71	0.5799	
+120	UiFashionDetail	R3KuluomuMd019011	FashionCamNearMain	0.4799	1.0	-25.1	2.8199	-1.71	0.5799	
+121	UiExhibitionInfo	R2HanyingMd010011	NearMain	0.4199	0.97	-25.85	0.856			
+122	UiExhibitionInfo	R2HanyingMd010011	FarMain	0.4199	0.97	-25.85	0.856			
+123	UiExhibitionInfo	R2HanyingMd010021	NearMain	0.4199	0.97	-25.85	0.856			
+124	UiExhibitionInfo	R2HanyingMd010021	FarMain	0.4199	0.97	-25.85	0.856			
+125	UiExhibitionInfo	R2HanyingMd010031	NearMain	0.4199	0.97	-25.85	0.856			
+126	UiExhibitionInfo	R2HanyingMd010031	FarMain	0.4199	0.97	-25.85	0.856			
+127	UiExhibitionInfo	R3TwentyoneMd010011	NearMain	0.1	1.12	-24.36	0.856			
+128	UiExhibitionInfo	R3TwentyoneMd010021	NearMain	0.1	1.12	-24.36	0.856			
+129	UiExhibitionInfo	R3TwentyoneMd010031	NearMain	0.1	1.12	-24.36	0.856			
+130	UiCharacter	QR2LiangMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+131	UiCharacter	QR1LuxiyaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+132	UiCharacter	QR1LifuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+133	UiCharacter	QR2BiankaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+134	UiCharacter	QR2YongyechaoMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+135	UiCharacter	QR2ShenweiMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+136	UiCharacter	QR2KalieninaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+137	UiCharacter	QR2DubianMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+138	UiCharacter	QR2LuxiyaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+139	UiCharacter	QR2LifuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+140	UiCharacter	QR3LiangMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+141	UiCharacter	QR3LifuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+142	UiCharacter	QR3ShenweiMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+143	UiCharacter	QR3KalieninaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+144	UiCharacter	QR3YongyechaoMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+145	UiCharacter	QR3LuxiyaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+146	UiCharacter	QR3DubianMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+147	UiCharacter	QR2AilaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+148	UiCharacter	QR3BiankaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+149	UiCharacter	QR2SufeiyaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+150	UiCharacter	QR2KuluomuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+151	UiCharacter	QR4LuxiyaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+152	UiCharacter	QR2WeilaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+153	UiCharacter	QR2KamuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+154	UiCharacter	QR3LuosaitaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+155	UiCharacter	QR2QuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+156	UiCharacter	QR1ChangyuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+157	UiCharacter	QR3LunaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+158	UiCharacter	QR2WanshiMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+159	UiCharacter	QR3SailinnaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+160	UiCharacter	QR3KuluomuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+161	UiCharacter	QR2TwentyoneMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+162	UiCharacter	QR3WeilaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+163	UiCharacter	QR2LuolanMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+164	UiCharacter	QR4LifuMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+165	UiCharacter	QR4SailinnaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+166	UiCharacter	QR2PulaoMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+167	UiCharacter	QR4YongyechaoMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+168	UiCharacter	QR2HakamaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+169	UiCharacter	QR4KalieninaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+170	UiCharacter	QR2NuoanMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+171	UiCharacter	QR4BiankaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+172	UiCharacter	QR2BangbinataMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+173	UiCharacter	QR4LiangMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+174	UiCharacter	QR5LuxiyaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+175	UiCharacter	QR3AilaMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+176	UiCharacter	QR2HanyingMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+177	UiCharacter	QR3TwentyoneMd010011TX	UiCamNearLv	0.1	0.61	-23.85	0.856			
+178	UiCharacter	QR2LiangMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+179	UiCharacter	QR1LuxiyaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+180	UiCharacter	QR1LifuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+181	UiCharacter	QR2BiankaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+182	UiCharacter	QR2YongyechaoMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+183	UiCharacter	QR2ShenweiMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+184	UiCharacter	QR2KalieninaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+185	UiCharacter	QR2DubianMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+186	UiCharacter	QR2LuxiyaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+187	UiCharacter	QR2LifuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+188	UiCharacter	QR3LiangMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+189	UiCharacter	QR3LifuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+190	UiCharacter	QR3ShenweiMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+191	UiCharacter	QR3KalieninaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+192	UiCharacter	QR3YongyechaoMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+193	UiCharacter	QR3LuxiyaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+194	UiCharacter	QR3DubianMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+195	UiCharacter	QR2AilaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+196	UiCharacter	QR3BiankaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+197	UiCharacter	QR2SufeiyaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+198	UiCharacter	QR2KuluomuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+199	UiCharacter	QR4LuxiyaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+200	UiCharacter	QR2WeilaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+201	UiCharacter	QR2KamuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+202	UiCharacter	QR3LuosaitaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+203	UiCharacter	QR2QuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+204	UiCharacter	QR1ChangyuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+205	UiCharacter	QR3LunaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+206	UiCharacter	QR2WanshiMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+207	UiCharacter	QR3SailinnaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+208	UiCharacter	QR3KuluomuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+209	UiCharacter	QR2TwentyoneMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+210	UiCharacter	QR3WeilaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+211	UiCharacter	QR2LuolanMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+212	UiCharacter	QR4LifuMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+213	UiCharacter	QR4SailinnaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+214	UiCharacter	QR2PulaoMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+215	UiCharacter	QR4YongyechaoMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+216	UiCharacter	QR2HakamaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+217	UiCharacter	QR4KalieninaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+218	UiCharacter	QR2NuoanMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+219	UiCharacter	QR4BiankaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+220	UiCharacter	QR2BangbinataMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+221	UiCharacter	QR4LiangMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+222	UiCharacter	QR5LuxiyaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+223	UiCharacter	QR3AilaMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+224	UiCharacter	QR2HanyingMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+225	UiCharacter	QR3TwentyoneMd010011TX	UiCamNearGrade	-1.33	0.66	-23.76	1.7139	20.649	0.3019	
+226	UiCharacter	QR2LiangMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+227	UiCharacter	QR1LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+228	UiCharacter	QR1LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+229	UiCharacter	QR2BiankaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+230	UiCharacter	QR2YongyechaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+231	UiCharacter	QR2ShenweiMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+232	UiCharacter	QR2KalieninaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+233	UiCharacter	QR2DubianMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+234	UiCharacter	QR2LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+235	UiCharacter	QR2LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+236	UiCharacter	QR3LiangMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+237	UiCharacter	QR3LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+238	UiCharacter	QR3ShenweiMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+239	UiCharacter	QR3KalieninaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+240	UiCharacter	QR3YongyechaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+241	UiCharacter	QR3LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+242	UiCharacter	QR3DubianMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+243	UiCharacter	QR2AilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+244	UiCharacter	QR3BiankaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+245	UiCharacter	QR2SufeiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+246	UiCharacter	QR2KuluomuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+247	UiCharacter	QR4LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+248	UiCharacter	QR2WeilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+249	UiCharacter	QR2KamuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+250	UiCharacter	QR3LuosaitaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+251	UiCharacter	QR2QuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+252	UiCharacter	QR1ChangyuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+253	UiCharacter	QR3LunaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+254	UiCharacter	QR2WanshiMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+255	UiCharacter	QR3SailinnaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+256	UiCharacter	QR3KuluomuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+257	UiCharacter	QR2TwentyoneMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+258	UiCharacter	QR3WeilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+259	UiCharacter	QR2LuolanMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+260	UiCharacter	QR4LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+261	UiCharacter	QR4SailinnaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+262	UiCharacter	QR2PulaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+263	UiCharacter	QR4YongyechaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+264	UiCharacter	QR2HakamaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+265	UiCharacter	QR4KalieninaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+266	UiCharacter	QR2NuoanMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+267	UiCharacter	QR4BiankaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+268	UiCharacter	QR2BangbinataMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+269	UiCharacter	QR4LiangMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+270	UiCharacter	QR5LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+271	UiCharacter	QR3AilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+272	UiCharacter	QR2HanyingMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+273	UiCharacter	QR3TwentyoneMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+274	UiCharacter	QR2LiangMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+275	UiCharacter	QR1LuxiyaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+276	UiCharacter	QR1LifuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+277	UiCharacter	QR2BiankaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+278	UiCharacter	QR2YongyechaoMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+279	UiCharacter	QR2ShenweiMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+280	UiCharacter	QR2KalieninaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+281	UiCharacter	QR2DubianMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+282	UiCharacter	QR2LuxiyaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+283	UiCharacter	QR2LifuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+284	UiCharacter	QR3LiangMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+285	UiCharacter	QR3LifuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+286	UiCharacter	QR3ShenweiMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+287	UiCharacter	QR3KalieninaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+288	UiCharacter	QR3YongyechaoMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+289	UiCharacter	QR3LuxiyaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+290	UiCharacter	QR3DubianMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+291	UiCharacter	QR2AilaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+292	UiCharacter	QR3BiankaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+293	UiCharacter	QR2SufeiyaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+294	UiCharacter	QR2KuluomuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+295	UiCharacter	QR4LuxiyaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+296	UiCharacter	QR2WeilaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+297	UiCharacter	QR2KamuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+298	UiCharacter	QR3LuosaitaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+299	UiCharacter	QR2QuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+300	UiCharacter	QR1ChangyuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+301	UiCharacter	QR3LunaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+302	UiCharacter	QR2WanshiMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+303	UiCharacter	QR3SailinnaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+304	UiCharacter	QR3KuluomuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+305	UiCharacter	QR2TwentyoneMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+306	UiCharacter	QR3WeilaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+307	UiCharacter	QR2LuolanMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+308	UiCharacter	QR4LifuMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+309	UiCharacter	QR4SailinnaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+310	UiCharacter	QR2PulaoMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+311	UiCharacter	QR4YongyechaoMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+312	UiCharacter	QR2HakamaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+313	UiCharacter	QR4KalieninaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+314	UiCharacter	QR2NuoanMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+315	UiCharacter	QR4BiankaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+316	UiCharacter	QR2BangbinataMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+317	UiCharacter	QR4LiangMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+318	UiCharacter	QR5LuxiyaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+319	UiCharacter	QR3AilaMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+320	UiCharacter	QR2HanyingMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+321	UiCharacter	QR3TwentyoneMd010011TX	UiCamNearSkill	1.62	0.61	-23.54	0.8149	-20.0		
+322	UiCharacter	QR2LiangMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+323	UiCharacter	QR1LuxiyaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+324	UiCharacter	QR1LifuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+325	UiCharacter	QR2BiankaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+326	UiCharacter	QR2YongyechaoMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+327	UiCharacter	QR2ShenweiMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+328	UiCharacter	QR2KalieninaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+329	UiCharacter	QR2DubianMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+330	UiCharacter	QR2LuxiyaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+331	UiCharacter	QR2LifuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+332	UiCharacter	QR3LiangMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+333	UiCharacter	QR3LifuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+334	UiCharacter	QR3ShenweiMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+335	UiCharacter	QR3KalieninaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+336	UiCharacter	QR3YongyechaoMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+337	UiCharacter	QR3LuxiyaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+338	UiCharacter	QR3DubianMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+339	UiCharacter	QR2AilaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+340	UiCharacter	QR3BiankaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+341	UiCharacter	QR2SufeiyaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+342	UiCharacter	QR2KuluomuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+343	UiCharacter	QR4LuxiyaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+344	UiCharacter	QR2WeilaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+345	UiCharacter	QR2KamuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+346	UiCharacter	QR3LuosaitaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+347	UiCharacter	QR2QuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+348	UiCharacter	QR1ChangyuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+349	UiCharacter	QR3LunaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+350	UiCharacter	QR2WanshiMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+351	UiCharacter	QR3SailinnaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+352	UiCharacter	QR3KuluomuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+353	UiCharacter	QR2TwentyoneMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+354	UiCharacter	QR3WeilaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+355	UiCharacter	QR2LuolanMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+356	UiCharacter	QR4LifuMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+357	UiCharacter	QR4SailinnaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+358	UiCharacter	QR2PulaoMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+359	UiCharacter	QR4YongyechaoMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+360	UiCharacter	QR2HakamaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+361	UiCharacter	QR4KalieninaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+362	UiCharacter	QR2NuoanMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+363	UiCharacter	QR4BiankaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+364	UiCharacter	QR2BangbinataMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+365	UiCharacter	QR4LiangMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+366	UiCharacter	QR5LuxiyaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+367	UiCharacter	QR3AilaMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+368	UiCharacter	QR2HanyingMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+369	UiCharacter	QR3TwentyoneMd010011TX	UiCamNearEnhanceSkill	-0.4699	0.6399	-23.51	0.8439	12.835	0.1899	
+370	UiCharacter	QR2LiangMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+371	UiCharacter	QR1LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+372	UiCharacter	QR1LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+373	UiCharacter	QR2BiankaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+374	UiCharacter	QR2YongyechaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+375	UiCharacter	QR2ShenweiMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+376	UiCharacter	QR2KalieninaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+377	UiCharacter	QR2DubianMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+378	UiCharacter	QR2LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+379	UiCharacter	QR2LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+380	UiCharacter	QR3LiangMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+381	UiCharacter	QR3LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+382	UiCharacter	QR3ShenweiMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+383	UiCharacter	QR3KalieninaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+384	UiCharacter	QR3YongyechaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+385	UiCharacter	QR3LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+386	UiCharacter	QR3DubianMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+387	UiCharacter	QR2AilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+388	UiCharacter	QR3BiankaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+389	UiCharacter	QR2SufeiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+390	UiCharacter	QR2KuluomuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+391	UiCharacter	QR4LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+392	UiCharacter	QR2WeilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+393	UiCharacter	QR2KamuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+394	UiCharacter	QR3LuosaitaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+395	UiCharacter	QR2QuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+396	UiCharacter	QR1ChangyuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+397	UiCharacter	QR3LunaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+398	UiCharacter	QR2WanshiMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+399	UiCharacter	QR3SailinnaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+400	UiCharacter	QR3KuluomuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+401	UiCharacter	QR2TwentyoneMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+402	UiCharacter	QR3WeilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+403	UiCharacter	QR2LuolanMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+404	UiCharacter	QR4LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+405	UiCharacter	QR4SailinnaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+406	UiCharacter	QR2PulaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+407	UiCharacter	QR4YongyechaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+408	UiCharacter	QR2HakamaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+409	UiCharacter	QR4KalieninaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+410	UiCharacter	QR2NuoanMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+411	UiCharacter	QR4BiankaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+412	UiCharacter	QR2BangbinataMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+413	UiCharacter	QR4LiangMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+414	UiCharacter	QR5LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+415	UiCharacter	QR3AilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+416	UiCharacter	QR2HanyingMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+417	UiCharacter	QR3TwentyoneMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+418	UiMain	R2YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+419	UiMain	R2YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+420	UiMain	R2YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+421	UiMain	R2YongyechaoMd019011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+422	UiMain	R3YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+423	UiMain	R3YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+424	UiMain	R3YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+425	UiMain	R3YongyechaoMd019011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+426	UiMain	R3YongyechaoMd019071	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+427	UiMain	R3YongyechaoMd019211	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+428	UiMain	R3YongyechaoMd019271	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+429	UiMain	R4YongyechaobotMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+430	UiMain	R4YongyechaobotMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+431	UiMain	R4YongyechaobotMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+432	UiMain	R4YongyechaobotMd019321	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+433	UiMain	R4YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+434	UiMain	R4YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+435	UiMain	R4YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+436	UiMain	R4YongyechaoMd019321	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		27.0
+437	UiMain	R2YongyechaoMd010011	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+438	UiMain	R2YongyechaoMd010021	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+439	UiMain	R2YongyechaoMd010031	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+440	UiMain	R2YongyechaoMd019011	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+441	UiMain	R3YongyechaoMd010011	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+442	UiMain	R3YongyechaoMd010021	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+443	UiMain	R3YongyechaoMd010031	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+444	UiMain	R3YongyechaoMd019011	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+445	UiMain	R3YongyechaoMd019071	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+446	UiMain	R3YongyechaoMd019211	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+447	UiMain	R3YongyechaoMd019271	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+448	UiMain	R4YongyechaobotMd010011	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+449	UiMain	R4YongyechaobotMd010021	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+450	UiMain	R4YongyechaobotMd010031	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+451	UiMain	R4YongyechaobotMd019321	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+452	UiMain	R4YongyechaoMd010011	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+453	UiMain	R4YongyechaoMd010021	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+454	UiMain	R4YongyechaoMd010031	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+455	UiMain	R4YongyechaoMd019321	CamNearMainEnter	-3.5999	1.08	5.28	-2.084	173.2129		27.0
+456	UiMain	R2YongyechaoMd010011	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+457	UiMain	R2YongyechaoMd010021	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+458	UiMain	R2YongyechaoMd010031	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+459	UiMain	R2YongyechaoMd019011	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+460	UiMain	R3YongyechaoMd010011	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+461	UiMain	R3YongyechaoMd010021	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+462	UiMain	R3YongyechaoMd010031	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+463	UiMain	R3YongyechaoMd019011	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+464	UiMain	R3YongyechaoMd019071	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+465	UiMain	R3YongyechaoMd019211	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+466	UiMain	R3YongyechaoMd019271	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+467	UiMain	R4YongyechaobotMd010011	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+468	UiMain	R4YongyechaobotMd010021	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+469	UiMain	R4YongyechaobotMd010031	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+470	UiMain	R4YongyechaobotMd019321	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+471	UiMain	R4YongyechaoMd010011	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+472	UiMain	R4YongyechaoMd010021	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+473	UiMain	R4YongyechaoMd010031	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+474	UiMain	R4YongyechaoMd019321	CamNearMainChatEnter	-3.5499	1.095	4.8559	-2.084	158.233		27.0
+475	UiMain	R2YongyechaoMd010011	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+476	UiMain	R2YongyechaoMd010021	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+477	UiMain	R2YongyechaoMd010031	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+478	UiMain	R2YongyechaoMd019011	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+479	UiMain	R3YongyechaoMd010011	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+480	UiMain	R3YongyechaoMd010021	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+481	UiMain	R3YongyechaoMd010031	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+482	UiMain	R3YongyechaoMd019011	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+483	UiMain	R3YongyechaoMd019071	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+484	UiMain	R3YongyechaoMd019211	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+485	UiMain	R3YongyechaoMd019271	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+486	UiMain	R4YongyechaobotMd010011	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+487	UiMain	R4YongyechaobotMd010021	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+488	UiMain	R4YongyechaobotMd010031	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+489	UiMain	R4YongyechaobotMd019321	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+490	UiMain	R4YongyechaoMd010011	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+491	UiMain	R4YongyechaoMd010021	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+492	UiMain	R4YongyechaoMd010031	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+493	UiMain	R4YongyechaoMd019321	CamNearMainRightMidSecondEnter	-2.46	1.095	4.4899	-2.084	-163.0		27.0
+494	UiFavorabilityNew	R2YongyechaoMd010011	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+495	UiFavorabilityNew	R2YongyechaoMd010021	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+496	UiFavorabilityNew	R2YongyechaoMd010031	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+497	UiFavorabilityNew	R2YongyechaoMd019011	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+498	UiFavorabilityNew	R3YongyechaoMd010011	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+499	UiFavorabilityNew	R3YongyechaoMd010021	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+500	UiFavorabilityNew	R3YongyechaoMd010031	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+501	UiFavorabilityNew	R3YongyechaoMd019011	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+502	UiFavorabilityNew	R3YongyechaoMd019071	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+503	UiFavorabilityNew	R3YongyechaoMd019211	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+504	UiFavorabilityNew	R3YongyechaoMd019271	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+505	UiFavorabilityNew	R4YongyechaobotMd010011	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+506	UiFavorabilityNew	R4YongyechaobotMd010021	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+507	UiFavorabilityNew	R4YongyechaobotMd010031	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+508	UiFavorabilityNew	R4YongyechaobotMd019321	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+509	UiFavorabilityNew	R4YongyechaoMd010011	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+510	UiFavorabilityNew	R4YongyechaoMd010021	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+511	UiFavorabilityNew	R4YongyechaoMd010031	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+512	UiFavorabilityNew	R4YongyechaoMd019321	CamNearMain	-3.5	1.095	4.8559	-2.084	176.5679		25.0
+513	UiFavorabilityNew	R2YongyechaoMd010011	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+514	UiFavorabilityNew	R2YongyechaoMd010021	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+515	UiFavorabilityNew	R2YongyechaoMd010031	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+516	UiFavorabilityNew	R2YongyechaoMd019011	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+517	UiFavorabilityNew	R3YongyechaoMd010011	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+518	UiFavorabilityNew	R3YongyechaoMd010021	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+519	UiFavorabilityNew	R3YongyechaoMd010031	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+520	UiFavorabilityNew	R3YongyechaoMd019011	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+521	UiFavorabilityNew	R3YongyechaoMd019071	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+522	UiFavorabilityNew	R3YongyechaoMd019211	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+523	UiFavorabilityNew	R3YongyechaoMd019271	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+524	UiFavorabilityNew	R4YongyechaobotMd010011	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+525	UiFavorabilityNew	R4YongyechaobotMd010021	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+526	UiFavorabilityNew	R4YongyechaobotMd010031	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+527	UiFavorabilityNew	R4YongyechaobotMd019321	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+528	UiFavorabilityNew	R4YongyechaoMd010011	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+529	UiFavorabilityNew	R4YongyechaoMd010021	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+530	UiFavorabilityNew	R4YongyechaoMd010031	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+531	UiFavorabilityNew	R4YongyechaoMd019321	PanelCamNearrExchange	-3.5499	1.095	4.8559	-2.084	158.233		25.0
+532	UiPhotograph	R2YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+533	UiPhotograph	R2YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+534	UiPhotograph	R2YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+535	UiPhotograph	R2YongyechaoMd019011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+536	UiPhotograph	R3YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+537	UiPhotograph	R3YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+538	UiPhotograph	R3YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+539	UiPhotograph	R3YongyechaoMd019011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+540	UiPhotograph	R3YongyechaoMd019071	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+541	UiPhotograph	R3YongyechaoMd019211	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+542	UiPhotograph	R3YongyechaoMd019271	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+543	UiPhotograph	R4YongyechaobotMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+544	UiPhotograph	R4YongyechaobotMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+545	UiPhotograph	R4YongyechaobotMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+546	UiPhotograph	R4YongyechaobotMd019321	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+547	UiPhotograph	R4YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+548	UiPhotograph	R4YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+549	UiPhotograph	R4YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+550	UiPhotograph	R4YongyechaoMd019321	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+551	UiPhotographPortrait	R2YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+552	UiPhotographPortrait	R2YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+553	UiPhotographPortrait	R2YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+554	UiPhotographPortrait	R2YongyechaoMd019011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+555	UiPhotographPortrait	R3YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+556	UiPhotographPortrait	R3YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+557	UiPhotographPortrait	R3YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+558	UiPhotographPortrait	R3YongyechaoMd019011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+559	UiPhotographPortrait	R3YongyechaoMd019071	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+560	UiPhotographPortrait	R3YongyechaoMd019211	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+561	UiPhotographPortrait	R3YongyechaoMd019271	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+562	UiPhotographPortrait	R4YongyechaobotMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+563	UiPhotographPortrait	R4YongyechaobotMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+564	UiPhotographPortrait	R4YongyechaobotMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+565	UiPhotographPortrait	R4YongyechaobotMd019321	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+566	UiPhotographPortrait	R4YongyechaoMd010011	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+567	UiPhotographPortrait	R4YongyechaoMd010021	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+568	UiPhotographPortrait	R4YongyechaoMd010031	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+569	UiPhotographPortrait	R4YongyechaoMd019321	CamNearMain	-3.5499	1.095	4.8559	-2.084	173.2129		25.0
+570	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamFarMain	0.34	1.37	-28.4599	2.25			
+571	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamFarMain	0.34	1.37	-28.4599	2.25			
+572	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamFarMain	0.34	1.37	-28.4599	2.25			
+573	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamFarMain	0.34	1.37	-28.4599	2.25			
+574	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamNearMain	0.34	1.37	-28.4599	2.25			
+575	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamNearMain	0.34	1.37	-28.4599	2.25			
+576	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamNearMain	0.34	1.37	-28.4599	2.25			
+577	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamNearMain	0.34	1.37	-28.4599	2.25			
+578	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamFarCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+579	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamFarCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+580	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamFarCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+581	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamFarCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+582	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamNearCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+583	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamNearCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+584	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamNearCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+585	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamNearCharLeftMove	0.62	1.37	-28.4599	2.249	-1.4029	-0.0549	
+586	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamFarTrain	0.5099	1.0299	-26.59	0.856			
+587	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamFarTrain	0.5099	1.0299	-26.59	0.856			
+588	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamFarTrain	0.5099	1.0299	-26.59	0.856			
+589	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamFarTrain	0.5099	1.0299	-26.59	0.856			
+590	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamNearTrain	0.5099	1.0299	-26.59	0.856			
+591	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamNearTrain	0.5099	1.0299	-26.59	0.856			
+592	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamNearTrain	0.5099	1.0299	-26.59	0.856			
+593	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamNearTrain	0.5099	1.0299	-26.59	0.856			
+594	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamFarQuality	0.5299	1.1799	-26.03				
+595	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamFarQuality	0.5299	1.1799	-26.03				
+596	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamFarQuality	0.5299	1.1799	-26.03				
+597	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamFarQuality	0.5299	1.1799	-26.03				
+598	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamNearQuality	0.5299	1.1799	-26.03				
+599	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamNearQuality	0.5299	1.1799	-26.03				
+600	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamNearQuality	0.5299	1.1799	-26.03				
+601	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamNearQuality	0.5299	1.1799	-26.03				
+602	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamFarMain	0.1	0.55	-23.86				
+603	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamNearMain		1.83	-24.86	14.31	0.68		
+604	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamFarCharLeftMove	0.4	0.55	-23.86		-2.219		
+605	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamNearCharLeftMove	0.4799	1.83	-24.7999	14.2849	-2.801	-0.86	
+606	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamFarTrain	0.1	0.55	-23.86				
+607	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamNearTrain		1.6	-23.94	14.31	2.7		
+608	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamFarQuality	1.0	1.0099	-24.01	6.32	-11.6999		
+609	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamNearQuality	1.0	1.0099	-24.01	6.32	-11.6999		
+610	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamFarrExchange	-0.2849	1.7999	-24.84	14.074	-9.9569	-2.5	
+611	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamNearrExchange	-0.2849	1.7999	-24.84	14.074	-9.9569	-2.5	
+612	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamFarQualitySingle	-0.5099	1.1699	-23.8799	9.169	9.017	1.3109	
+613	UiCharacterSystemV2P6	R3WeilaMd019331	UiCamFarQualityOverview	0.9499	1.19	-23.3299	8.329	-25.295	-3.153	
+614	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamNearMain	0.3499	1.0	-25.09	2.8199	-1.71	0.5799	
+615	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamFarCharLeftMove	0.37	1.1799	-26.2099		-1.194		
+616	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamNearCharLeftMove	0.5199	1.0	-25.09	2.831	-2.9049	0.521	
+617	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamNearTrain	0.4799	1.0	-24.1	2.8199	-1.71	0.5799	
+618	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamNearQuality	2.2999	0.6	-23.69	-0.6999	-27.19	0.5799	
+619	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamNearrExchange	1.0399	1.0	-25.1	2.8199	-22.92	0.5799	
+620	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamFarQualitySingle	-0.1599	0.72	-24.6499		4.287		
+621	UiCharacterSystemV2P6	R3KuluomuMd019011	UiCamFarQualityOverview	1.4099	0.86	-23.17		-31.6259		
+622	UiCharacterSystemV2P6	R2PulaoMd010011	UiCamNearQuality	0.1	1.0599	-23.85	0.856			
+623	UiCharacterSystemV2P6	R2PulaoMd010021	UiCamNearQuality	0.1	1.0599	-23.85	0.856			
+624	UiCharacterSystemV2P6	R2PulaoMd010031	UiCamNearQuality	0.1	1.0599	-23.85	0.856			
+625	UiCharacterSystemV2P6	R2PulaoMd019311	UiCamNearQuality	0.1	1.0599	-23.85	0.856			
+626	UiCharacterSystemV2P6	R2PulaoMd019091	UiCamNearQuality	0.1	1.0599	-23.85	0.856			
+627	UiCharacterSystemV2P6	R4YongyechaobotMd010011	UiCamNearQuality	0.2399	0.99	-26.03				
+628	UiCharacterSystemV2P6	R4YongyechaobotMd010021	UiCamNearQuality	0.2399	0.99	-26.03				
+629	UiCharacterSystemV2P6	R4YongyechaobotMd010031	UiCamNearQuality	0.2399	0.99	-26.03				
+630	UiCharacterSystemV2P6	R4YongyechaobotMd019321	UiCamNearQuality	0.2399	0.99	-26.03				
+631	UiCharacterSystemV2P6	R3YongyechaoMd010011	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+632	UiCharacterSystemV2P6	R3YongyechaoMd010021	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+633	UiCharacterSystemV2P6	R3YongyechaoMd010031	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+634	UiCharacterSystemV2P6	R3YongyechaoMd019011	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+635	UiCharacterSystemV2P6	R3YongyechaoMd019071	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+636	UiCharacterSystemV2P6	R3YongyechaoMd019211	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+637	UiCharacterSystemV2P6	R3YongyechaoMd019271	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+638	UiCharacterSystemV2P6	R2BangbinataMd010011	UiCamNearQuality	0.1	1.0399	-23.86	0.856			
+639	UiCharacterSystemV2P6	R2BangbinataMd010021	UiCamNearQuality	0.1	1.0399	-23.86	0.856			
+640	UiCharacterSystemV2P6	R2BangbinataMd010031	UiCamNearQuality	0.1	1.0399	-23.86	0.856			
+641	UiCharacterSystemV2P6	R2BangbinataMd019011	UiCamNearQuality	0.1	1.0399	-23.86	0.856			
+642	UiCharacterSystemV2P6	R2ChangyuMd010011	UiCamNearQuality	0.1	1.1499	-23.85	0.856			
+643	UiCharacterSystemV2P6	R2ChangyuMd010021	UiCamNearQuality	0.1	1.1499	-23.85	0.856			
+644	UiCharacterSystemV2P6	R2ChangyuMd010031	UiCamNearQuality	0.1	1.1499	-23.85	0.856			
+645	UiCharacterSystemV2P6	R2ChangyuMd019071	UiCamNearQuality	0.1	1.1499	-23.85	0.856			
+646	UiCharacterSystemV2P6	R2ChangyuMd019141	UiCamNearQuality	0.1	1.1499	-23.85	0.856			
+647	UiCharacterSystemV2P6	R2SufeiyaMd010011	UiCamNearQuality	0.1	1.09	-23.85	0.856			
+648	UiCharacterSystemV2P6	R2SufeiyaMd010021	UiCamNearQuality	0.1	1.09	-23.85	0.856			
+649	UiCharacterSystemV2P6	R2SufeiyaMd010031	UiCamNearQuality	0.1	1.09	-23.85	0.856			
+650	UiCharacterSystemV2P6	R2SufeiyaMd019011	UiCamNearQuality	0.1	1.09	-23.85	0.856			
+651	UiCharacterSystemV2P6	R2SufeiyaMd019031	UiCamNearQuality	0.1	1.09	-23.85	0.856			
+652	UiCharacterSystemV2P6	R2SufeiyaMd019231	UiCamNearQuality	0.1	1.09	-23.85	0.856			
+653	UiCharacterSystemV2P6	R2YongyechaoMd010011	UiCamNearQuality	0.1	1.24	-23.85	0.856			
+654	UiCharacterSystemV2P6	R2YongyechaoMd010021	UiCamNearQuality	0.1	1.24	-23.85	0.856			
+655	UiCharacterSystemV2P6	R2YongyechaoMd010031	UiCamNearQuality	0.1	1.24	-23.85	0.856			
+656	UiCharacterSystemV2P6	R2YongyechaoMd019011	UiCamNearQuality	0.1	1.24	-23.85	0.856			
+657	UiCharacterSystemV2P6	R2TwentyoneMd010011	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+658	UiCharacterSystemV2P6	R2TwentyoneMd010021	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+659	UiCharacterSystemV2P6	R2TwentyoneMd010031	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+660	UiCharacterSystemV2P6	R2TwentyoneMd019091	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+661	UiCharacterSystemV2P6	R2TwentyoneMd019331	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+662	UiCharacterSystemV2P6	R2TwentyoneMd019201	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+663	UiCharacterSystemV2P6	R3TwentyoneMd010011	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+664	UiCharacterSystemV2P6	R3TwentyoneMd010021	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+665	UiCharacterSystemV2P6	R3TwentyoneMd010031	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+666	UiCharacterSystemV2P6	R3TwentyoneMd019041	UiCamNearQuality	0.1	1.21	-23.85	0.856			
+667	UiCharacterSystemV2P6	R3LuosaitaMd010011	UiCamNearQuality	0.1	1.36	-23.85	0.856			
+668	UiCharacterSystemV2P6	R3LuosaitaMd010021	UiCamNearQuality	0.1	1.36	-23.85	0.856			
+669	UiCharacterSystemV2P6	R3LuosaitaMd010031	UiCamNearQuality	0.1	1.36	-23.85	0.856			
+670	UiCharacterSystemV2P6	R3LuosaitaMd019031	UiCamNearQuality	0.1	1.36	-23.85	0.856			
+671	UiCharacterSystemV2P6	R3LuosaitaMd019241	UiCamNearQuality	0.1	1.36	-23.85	0.856			
+672	UiCharacterSystemV2P6	R3LuosaitaMd019351	UiCamNearQuality	0.1	1.36	-23.85	0.856			
+673	UiCharacterSystemV2P6	QR2LiangMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+674	UiCharacterSystemV2P6	QR1LuxiyaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+675	UiCharacterSystemV2P6	QR1LifuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+676	UiCharacterSystemV2P6	QR2BiankaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+677	UiCharacterSystemV2P6	QR2YongyechaoMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+678	UiCharacterSystemV2P6	QR2ShenweiMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+679	UiCharacterSystemV2P6	QR2KalieninaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+680	UiCharacterSystemV2P6	QR2DubianMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+681	UiCharacterSystemV2P6	QR2LuxiyaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+682	UiCharacterSystemV2P6	QR2LifuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+683	UiCharacterSystemV2P6	QR3LiangMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+684	UiCharacterSystemV2P6	QR3LifuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+685	UiCharacterSystemV2P6	QR3ShenweiMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+686	UiCharacterSystemV2P6	QR3KalieninaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+687	UiCharacterSystemV2P6	QR3YongyechaoMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+688	UiCharacterSystemV2P6	QR3LuxiyaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+689	UiCharacterSystemV2P6	QR3DubianMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+690	UiCharacterSystemV2P6	QR2AilaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+691	UiCharacterSystemV2P6	QR3BiankaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+692	UiCharacterSystemV2P6	QR2SufeiyaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+693	UiCharacterSystemV2P6	QR2KuluomuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+694	UiCharacterSystemV2P6	QR4LuxiyaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+695	UiCharacterSystemV2P6	QR2WeilaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+696	UiCharacterSystemV2P6	QR2KamuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+697	UiCharacterSystemV2P6	QR3LuosaitaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+698	UiCharacterSystemV2P6	QR2QuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+699	UiCharacterSystemV2P6	QR1ChangyuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+700	UiCharacterSystemV2P6	QR3LunaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+701	UiCharacterSystemV2P6	QR2WanshiMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+702	UiCharacterSystemV2P6	QR3SailinnaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+703	UiCharacterSystemV2P6	QR3KuluomuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+704	UiCharacterSystemV2P6	QR2TwentyoneMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+705	UiCharacterSystemV2P6	QR3WeilaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+706	UiCharacterSystemV2P6	QR2LuolanMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+707	UiCharacterSystemV2P6	QR4LifuMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+708	UiCharacterSystemV2P6	QR4SailinnaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+709	UiCharacterSystemV2P6	QR2PulaoMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+710	UiCharacterSystemV2P6	QR4YongyechaoMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+711	UiCharacterSystemV2P6	QR2HakamaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+712	UiCharacterSystemV2P6	QR4KalieninaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+713	UiCharacterSystemV2P6	QR2NuoanMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+714	UiCharacterSystemV2P6	QR4BiankaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+715	UiCharacterSystemV2P6	QR2BangbinataMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+716	UiCharacterSystemV2P6	QR4LiangMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+717	UiCharacterSystemV2P6	QR5LuxiyaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+718	UiCharacterSystemV2P6	QR3AilaMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+719	UiCharacterSystemV2P6	QR2HanyingMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+720	UiCharacterSystemV2P6	QR3TwentyoneMd010011TX	UiCamNearTrain	0.1	0.61	-23.85	0.856			
+721	UiCharacterSystemV2P6	QR2LiangMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+722	UiCharacterSystemV2P6	QR1LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+723	UiCharacterSystemV2P6	QR1LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+724	UiCharacterSystemV2P6	QR2BiankaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+725	UiCharacterSystemV2P6	QR2YongyechaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+726	UiCharacterSystemV2P6	QR2ShenweiMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+727	UiCharacterSystemV2P6	QR2KalieninaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+728	UiCharacterSystemV2P6	QR2DubianMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+729	UiCharacterSystemV2P6	QR2LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+730	UiCharacterSystemV2P6	QR2LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+731	UiCharacterSystemV2P6	QR3LiangMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+732	UiCharacterSystemV2P6	QR3LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+733	UiCharacterSystemV2P6	QR3ShenweiMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+734	UiCharacterSystemV2P6	QR3KalieninaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+735	UiCharacterSystemV2P6	QR3YongyechaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+736	UiCharacterSystemV2P6	QR3LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+737	UiCharacterSystemV2P6	QR3DubianMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+738	UiCharacterSystemV2P6	QR2AilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+739	UiCharacterSystemV2P6	QR3BiankaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+740	UiCharacterSystemV2P6	QR2SufeiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+741	UiCharacterSystemV2P6	QR2KuluomuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+742	UiCharacterSystemV2P6	QR4LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+743	UiCharacterSystemV2P6	QR2WeilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+744	UiCharacterSystemV2P6	QR2KamuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+745	UiCharacterSystemV2P6	QR3LuosaitaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+746	UiCharacterSystemV2P6	QR2QuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+747	UiCharacterSystemV2P6	QR1ChangyuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+748	UiCharacterSystemV2P6	QR3LunaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+749	UiCharacterSystemV2P6	QR2WanshiMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+750	UiCharacterSystemV2P6	QR3SailinnaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+751	UiCharacterSystemV2P6	QR3KuluomuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+752	UiCharacterSystemV2P6	QR2TwentyoneMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+753	UiCharacterSystemV2P6	QR3WeilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+754	UiCharacterSystemV2P6	QR2LuolanMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+755	UiCharacterSystemV2P6	QR4LifuMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+756	UiCharacterSystemV2P6	QR4SailinnaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+757	UiCharacterSystemV2P6	QR2PulaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+758	UiCharacterSystemV2P6	QR4YongyechaoMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+759	UiCharacterSystemV2P6	QR2HakamaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+760	UiCharacterSystemV2P6	QR4KalieninaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+761	UiCharacterSystemV2P6	QR2NuoanMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+762	UiCharacterSystemV2P6	QR4BiankaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+763	UiCharacterSystemV2P6	QR2BangbinataMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+764	UiCharacterSystemV2P6	QR4LiangMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+765	UiCharacterSystemV2P6	QR5LuxiyaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+766	UiCharacterSystemV2P6	QR3AilaMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+767	UiCharacterSystemV2P6	QR2HanyingMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+768	UiCharacterSystemV2P6	QR3TwentyoneMd010011TX	UiCamNearQuality	0.07	0.61	-22.8199	-1.557			
+769	UiCharacterSystemV2P6	QR2LiangMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+770	UiCharacterSystemV2P6	QR1LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+771	UiCharacterSystemV2P6	QR1LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+772	UiCharacterSystemV2P6	QR2BiankaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+773	UiCharacterSystemV2P6	QR2YongyechaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+774	UiCharacterSystemV2P6	QR2ShenweiMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+775	UiCharacterSystemV2P6	QR2KalieninaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+776	UiCharacterSystemV2P6	QR2DubianMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+777	UiCharacterSystemV2P6	QR2LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+778	UiCharacterSystemV2P6	QR2LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+779	UiCharacterSystemV2P6	QR3LiangMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+780	UiCharacterSystemV2P6	QR3LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+781	UiCharacterSystemV2P6	QR3ShenweiMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+782	UiCharacterSystemV2P6	QR3KalieninaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+783	UiCharacterSystemV2P6	QR3YongyechaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+784	UiCharacterSystemV2P6	QR3LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+785	UiCharacterSystemV2P6	QR3DubianMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+786	UiCharacterSystemV2P6	QR2AilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+787	UiCharacterSystemV2P6	QR3BiankaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+788	UiCharacterSystemV2P6	QR2SufeiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+789	UiCharacterSystemV2P6	QR2KuluomuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+790	UiCharacterSystemV2P6	QR4LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+791	UiCharacterSystemV2P6	QR2WeilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+792	UiCharacterSystemV2P6	QR2KamuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+793	UiCharacterSystemV2P6	QR3LuosaitaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+794	UiCharacterSystemV2P6	QR2QuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+795	UiCharacterSystemV2P6	QR1ChangyuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+796	UiCharacterSystemV2P6	QR3LunaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+797	UiCharacterSystemV2P6	QR2WanshiMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+798	UiCharacterSystemV2P6	QR3SailinnaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+799	UiCharacterSystemV2P6	QR3KuluomuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+800	UiCharacterSystemV2P6	QR2TwentyoneMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+801	UiCharacterSystemV2P6	QR3WeilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+802	UiCharacterSystemV2P6	QR2LuolanMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+803	UiCharacterSystemV2P6	QR4LifuMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+804	UiCharacterSystemV2P6	QR4SailinnaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+805	UiCharacterSystemV2P6	QR2PulaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+806	UiCharacterSystemV2P6	QR4YongyechaoMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+807	UiCharacterSystemV2P6	QR2HakamaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+808	UiCharacterSystemV2P6	QR4KalieninaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+809	UiCharacterSystemV2P6	QR2NuoanMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+810	UiCharacterSystemV2P6	QR4BiankaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+811	UiCharacterSystemV2P6	QR2BangbinataMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+812	UiCharacterSystemV2P6	QR4LiangMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+813	UiCharacterSystemV2P6	QR5LuxiyaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+814	UiCharacterSystemV2P6	QR3AilaMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+815	UiCharacterSystemV2P6	QR2HanyingMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+816	UiCharacterSystemV2P6	QR3TwentyoneMd010011TX	UiCamNearrExchange	0.1	0.61	-23.85	0.8389	-11.604	-0.172	
+817	UiTheatre3RoleRoomDetail	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+818	UiTheatre3RoleRoomDetail	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+819	UiTheatre3RoleRoomDetail	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+820	UiTheatre3RoleRoomDetail	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+821	UiTheatre3RoleRoomDetail	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+822	UiTheatre3RoleRoomDetail	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+823	UiSelectCharacterStrongholdSupport	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+824	UiSelectCharacterStrongholdSupport	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+825	UiSelectCharacterStrongholdSupport	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+826	UiSelectCharacterStrongholdSupport	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+827	UiSelectCharacterStrongholdSupport	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+828	UiSelectCharacterStrongholdSupport	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+829	UiSelectCharacterStrongholdPower	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+830	UiSelectCharacterStrongholdPower	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+831	UiSelectCharacterStrongholdPower	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+832	UiSelectCharacterStrongholdPower	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+833	UiSelectCharacterStrongholdPower	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+834	UiSelectCharacterStrongholdPower	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+835	UiSelectCharacterAssignOccupy	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+836	UiSelectCharacterAssignOccupy	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+837	UiSelectCharacterAssignOccupy	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+838	UiSelectCharacterAssignOccupy	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+839	UiSelectCharacterAssignOccupy	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+840	UiSelectCharacterAssignOccupy	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+841	UiSelectCharacterAwarenessOccupy	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+842	UiSelectCharacterAwarenessOccupy	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+843	UiSelectCharacterAwarenessOccupy	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+844	UiSelectCharacterAwarenessOccupy	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+845	UiSelectCharacterAwarenessOccupy	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+846	UiSelectCharacterAwarenessOccupy	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+847	UiBiancaTheatreMainMassage	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+848	UiBiancaTheatreMainMassage	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+849	UiBiancaTheatreMainMassage	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+850	UiBiancaTheatreMainMassage	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+851	UiBiancaTheatreMainMassage	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+852	UiBiancaTheatreMainMassage	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+853	UiStrongholdRoomCharacterV2P6	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+854	UiStrongholdRoomCharacterV2P6	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+855	UiStrongholdRoomCharacterV2P6	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+856	UiStrongholdRoomCharacterV2P6	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+857	UiStrongholdRoomCharacterV2P6	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+858	UiStrongholdRoomCharacterV2P6	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+859	UiAwarenessRoomCharacter	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+860	UiAwarenessRoomCharacter	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+861	UiAwarenessRoomCharacter	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+862	UiAwarenessRoomCharacter	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+863	UiAwarenessRoomCharacter	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+864	UiAwarenessRoomCharacter	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	
+865	UiAssignRoomCharacter	R4YongyechaobotMd010011	NearCamera	0.2199	1.25	-26.0	0.856			
+866	UiAssignRoomCharacter	R4YongyechaobotMd010021	NearCamera	0.2199	1.25	-26.0	0.856			
+867	UiAssignRoomCharacter	R4YongyechaobotMd010031	NearCamera	0.2199	1.25	-26.0	0.856			
+868	UiAssignRoomCharacter	R4YongyechaobotMd019321	NearCamera	0.2199	1.25	-26.0	0.856			
+869	UiAssignRoomCharacter	R3WeilaMd019331	NearCamera	0.07	1.7	-24.2	13.2679			
+870	UiAssignRoomCharacter	R3KuluomuMd019011	NearCamera	0.8199	1.0	-25.0	2.8199	-8.1099	0.5799	

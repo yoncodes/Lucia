@@ -1,0 +1,8 @@
+Id	Type	UiType	Name	Icon	Text	PrefabPath	Duration	IsMask	MaskTarget	ClickKey	Params
+	1	1	曾海波	1	MovieTalk表-曾海波		0				
+280101	1	1	Lee	1011001	This is the mission site.		0				
+280102	1	1	Lee	1011001	Punishing concentration nearby is quite high. Let's proceed carefully.		0				
+280103	3	1	Lee		I knew there'd be an ambush.		3				
+280104	3	1	Lee		Strange, the mechanoids are attacking each other?		2.5				
+280105	3	1	Lee		Looks like we need to investigate the downed mechanoid.		2.5				
+280106	1	1	Lee	1011001	Mechanoid data collection complete, preparing to return.		0				

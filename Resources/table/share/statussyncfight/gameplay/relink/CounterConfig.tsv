@@ -1,0 +1,3 @@
+Id	BaseNpcId	BuffCondition	Priority	StartActionID	LockActionID	AttackActionID	AttackDelayTime	AttackProlongTime	BePursuitActionID	ReversalActionID	ReversalDelayTime	SupportAttackActionID	MultiParryActionID	MultiParrySprintActionID	MultiParryWaitActionID	MultiParryCounterActionID	MultiParryCounterCastPointTime	UltimateSkillActionID
+1	1052	105217		105244	105245	105248	5000	5000	105246	105247	11499	105249						105252
+2	1052	105218		105258	105259	105262	5000	5000	105260	105261	12000	105249						105252

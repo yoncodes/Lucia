@@ -1,0 +1,5 @@
+Id	Name	Icon	BigIcon	Priority	Color	MessageColor
+1	Whispers of Love Mission	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/UiBigWorldTaskMainIcon11.png	Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskObtain/DramaIcon/UiBigWorldTaskObtainDramaIconDate.png	1	C68965	e08b58
+2	Chronicles Mission	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/UiBigWorldTaskMainIcon12.png	Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskObtain/DramaIcon/UiBigWorldTaskObtainDramaIconGamePlay.png	2	618f91	76b8bb
+3	Rumor Mission	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/UiBigWorldTaskMainIcon09.png	Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskCommonIcon/UiBigWorldTaskNPCTips2.png	3	7b92b2	779bcd
+4	Pilotage Mission	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/UiBigWorldTaskMainIcon13.png	Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskCommonIcon/UiBigWorldTaskNPCTips6.png	4	9872a4	b281c1

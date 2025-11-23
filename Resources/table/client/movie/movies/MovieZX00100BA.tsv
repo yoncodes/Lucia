@@ -1,0 +1,19 @@
+Id	ActionId	NextActionId	Type	IsBlock	IsEnd	BeginAnim	EndAnim	BeginDelay	EndDelay	Params
+1	1		101			AniZhuanchangEnd				{1: 'Assets/Product/Texture/Image/BgStory/BgStory965.png'}
+2	2		401							{1: '1', 2: '203'}
+3	3		201							{1: '1', 2: '1021001'}
+4	4		301			DialogEnable				"{1: '1', 2: 'Lucia', 3: ""Next, we'll be reliving those missions in the sim, Commandant."", 4: '1'}"
+5	5		301							"{2: 'Lucia', 3: 'The target for this sim battle is a spray-type infected unit called ""Graffiti Artist.""', 4: '1'}"
+6	6		301							"{2: 'Lucia', 3: ""Even if we've beaten them before, we can't afford to let our guard down."", 4: '1'}"
+7	7		301							"{2: 'Lucia', 3: ""Commandant, is there anything else you'd like to go over before we begin?"", 4: '1'}"
+8	8		302							"{2: 'Why revisit the old battle logs?', 3: '9', 4: 'What kind of enemy is this ""Graffiti Artist""?', 5: '11', 6: 'Understood. No further questions.', 7: '13'}"
+9	9		301							"{2: 'Lucia', 3: ""Simulation Review builds a holographic battlefield using the combat data we've collected."", 4: '1'}"
+10	10	7	301							"{2: 'Lucia', 3: ""The holographic space can recreate mission scenarios down to the smallest detail. It's a great way to sharpen combat skills."", 4: '1'}"
+11	11		301							"{2: 'Lucia', 3: ""The briefing says he's a machine infected by the Punishing Virus."", 4: '1'}"
+12	12	7	301							"{2: 'Lucia', 3: ""Hunting down Corrupted on the surface is one of Gray Raven's key missions."", 4: '1'}"
+13	13		301							{2: 'Lucia', 3: 'Alright, time to head out.', 4: '1'}
+14	14		202							{1: '1'}
+15	15		401							{1: '2', 2: '4872'}
+16	16		301							{3: 'Lucia steps to your side and opens the combat room door first.'}
+17	17		201							{1: '1', 2: '1021001'}
+18	18		301		1		AniZhuanchangBegin			"{1: '1', 2: 'Lucia', 3: ""Let's team up again today, Commandant."", 4: '1'}"

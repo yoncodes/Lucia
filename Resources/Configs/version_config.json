@@ -54,5 +54,19 @@
     "IndexMd5": "c5d4baac85a6e37b8109ea43dc045d31",
     "IndexSha1": "ee9b1d7242fe7ff9621f3b7451c969b06b8f7638",
     "LaunchIndexSha1": "7e0de243ba0074fe2e5c194d686c693e29f65b92"
+  },
+  "4.0.0": {
+    "DocumentVersion": "4.0.10",
+    "LaunchModuleVersion": "4.0.10",
+    "IndexMd5": "c5d4baac85a6e37b8109ea43dc045d31",
+    "IndexSha1": "361ee1f0d0effde2f00d4f4f18d224ffd9c67c59",
+    "LaunchIndexSha1": "edad7223776b6dcb34e8e2105a738ea22ba39efe"
+  },
+  "2.14.0": {
+    "DocumentVersion": "2.14.10",
+    "LaunchModuleVersion": "2.14.10",
+    "IndexMd5": "c5d4baac85a6e37b8109ea43dc045d31",
+    "IndexSha1": "16f1a994c492f1aa11ad018416085b5c3eee9ab0",
+    "LaunchIndexSha1": "2e27fafc6fb3ab4044e3d17823d355e8efb20935"
   }
 }

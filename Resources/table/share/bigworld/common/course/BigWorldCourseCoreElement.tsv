@@ -1,0 +1,4 @@
+Id	Name	Background	TeachId	DisplayRewardId	EntryId	SkipId	LockSkipIds	LockSkipConditionIds
+1001	Kuroro Coffee	Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldProcess/ProcessBanner/UiBigWorldProcessPanelActivityCafe.png			1	1011	[1031, 1012]	[50001011, 50001505]
+1002	Business Development Plan	Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldProcess/ProcessBanner/UiBigWorldProcessPanelActivityShoppingStreet.png			2	1021	[1033, 1022]	[50001012, 50001506]
+2101	Beyond Time's Shore			1001	1001	1001	[1002]	[50001500]

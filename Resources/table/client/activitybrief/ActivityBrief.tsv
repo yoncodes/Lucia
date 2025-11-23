@@ -1,0 +1,2 @@
+Id	TimeId	TaskInfoId	AnimConditionId	BgType	EnterAniCheckType	Main3DBg	Main3DBgModel	SpecialEnterAnimName	EnterAnimName	LoopAnimName	VideoEnterSoundCueId	VideoLoopSoundCueId	IsAfterFirstAnimSetSkip	ShopInfoId	UIModelId	SpinePath	GroupIdList
+1	42703	1		1	1			Enable	Enable	Loop			1	[1, 2, 3]	['ActivityRole09001']	['Assets/Product/Ui/Spine/4-0Spine/GodLifuActivityV40/GodLifuActivityV40.prefab']	[1, 27, 28, 113, 134, 3, 133, 135, 111, 123, 8, 0, 0, 0, 0]

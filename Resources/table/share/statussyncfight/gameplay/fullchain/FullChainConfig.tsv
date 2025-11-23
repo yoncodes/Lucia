@@ -1,0 +1,3 @@
+Key	Type	Value
+MaxFullChainLevel	int	3
+TriggerChainDuration	float	10

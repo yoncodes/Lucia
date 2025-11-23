@@ -1,0 +1,101 @@
+Id	NpcAnim	NpcAnimLayer	ActionIndex
+1	Born		1
+2	Stand2		2
+3	Stand1		3
+4	Attack01		4
+5	Attack02		5
+6	Attack03		6
+7	Attack04		7
+8	Attack05		8
+9	Attack06		9
+10	Attack07		10
+11	Attack08		11
+12	Attack09		92
+13	Attack12		48
+14	Attack21		12
+15	Attack22		13
+16	Attack41		14
+17	Attack42		15
+18	Attack43		16
+19	Attack45		17
+20	Attack46		18
+21	Attack51		19
+22	Attack52		53
+23	Attack65		58
+24	Attack83		20
+25	Attack84		21
+26	Attack90		22
+27	Attack99		23
+28	Attack100		24
+29	Attack101		25
+30	Attack102		26
+31	Hit1	1	27
+32	Hit2	1	28
+33	Hit3	1	29
+34	Hit4	1	30
+35	Hoverhit	1	31
+36	Falldown	1	32
+37	Hitdown	1	33
+38	Lieonfloor	1	34
+39	Standup	1	35
+40	RunStart	1	36
+41	RunStartEnd01	1	37
+42	Run	1	38
+43	Stop	1	39
+44	SprintStart	1	40
+45	SprintStartEnd01	1	41
+46	SprintStop	1	42
+47	Stand2	1	43
+48	Stand1	1	44
+49	Death	1	45
+50	Stun	1	46
+51	Attack11	1	47
+52	Attack12	1	48
+53	Attack13	1	49
+54	Attack14	1	50
+55	Attack31	1	51
+56	Attack32	1	52
+57	Attack51	1	19
+58	Attack52	1	53
+59	Attack61	1	54
+60	Attack62	1	55
+61	Attack63	1	56
+62	Attack64	1	57
+63	Attack65	1	58
+64	Attack66	1	59
+65	Attack67	1	60
+66	Attack68	1	61
+67	Attack71	1	62
+68	Attack72	1	63
+69	Attack73	1	64
+70	Attack74	1	65
+71	Attack75	1	66
+72	Attack76	1	67
+73	Attack77	1	68
+74	Attack78	1	69
+75	Attack79	1	93
+76	Attack83	1	70
+77	Attack84	1	71
+78	Attack85	1	72
+79	Attack86	1	73
+80	Attack87	1	74
+81	Attack88	1	75
+82	Attack90	1	76
+83	Attack92	1	77
+84	Attack93	1	78
+85	Attack94	1	79
+86	Attack95	1	80
+87	Attack96	1	81
+88	Attack97	1	82
+89	Attack98	1	83
+90	Attack99	1	84
+91	Attack100	1	85
+92	Attack111	1	86
+93	Attack112	1	87
+94	Move1	1	88
+95	Move2	1	89
+96	Attack501		90
+97	Attack502	1	91
+98	Attack211		94
+99	attack211	1	95
+100	attack231		96

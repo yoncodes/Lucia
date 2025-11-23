@@ -1,0 +1,40 @@
+Id	Priority	Ignore	Desc	GuideType	ConditionId	CompleteId	ActiveUi	CheckNodeActive	RewardId	GroupId
+200100	200100		v3.6 Journal Guide	1	[50001004]	200100	UiBigWorldHud			200100
+200101	200101		v3.6 Map Guide	1	[50001007]	200101	UiBigWorldHud			200101
+200102	200102		v3.6 Dormitory - Photo Wall Guide	1	[50001003]	200102	UiSkyGardenDormPhotoWall	PanelHomePhoto		200102
+200103	200103		v3.6 Photo Guide	1	[50001006]	200103	UiBigWorldHud			200103
+200200	200200		v3.6 Cafe - First Entry	1		200200	UiSkyGardenCafeMain			200200
+200201	200201		v3.6 Cafe - 1001 Time Period 1	1	[50010006]	200201	UiSkyGardenCafeGame			200201
+200202	200202		v3.6 Cafe - 1001 Time Period 1 Complete Previous Guide	1	[50010006, 50010007]	200202	UiSkyGardenCafeGame			200202
+200203	200203		v3.6 Cafe - 1001 Time Period 2	1	[50010008]	200203	UiSkyGardenCafeGame			200203
+200204	200204		v3.6 Cafe - 1001 Time Period 3	1	[50010009]	200204	UiSkyGardenCafeGame			200204
+200205	200205		v3.6 Cafe - 1001 Cleared Back to Main Screen	1	[50010013]	200205	UiSkyGardenCafeMain			200205
+200206	200206		v3.6 Cafe - 1002 Time Period 1	1	[50010014]	200206	UiSkyGardenCafeGame			200206
+200207	200207		v3.6 Cafe - 1003 Time Period 1	1	[50010015]	200207	UiSkyGardenCafeGame			200207
+200208	200208		v3.6 Cafe - 1004 Time Period 1	1	[50010016]	200208	UiSkyGardenCafeGame			200208
+200209	200209		v3.6 Cafe - 1004 Time Period 3	1	[50010017]	200209	UiSkyGardenCafeGame			200209
+200210	200210		v3.6 Cafe - 1005 Time Period 1	1	[50010018]	200210	UiSkyGardenCafeGame			200210
+200211	200211		v3.6 Cafe - 1006 Cleared Back to Main Screen	1	[50010019]	200211	UiSkyGardenCafeMain			200211
+200212	200212		v3.6 Cafe - 2001 Time Period 1 Replace Customers	1	[50010020]	200212	UiSkyGardenCafeGame			200212
+200213	200213		v3.6 Cafe - 2001 Time Period 1 Official Game	1	[50010020]	200213	UiSkyGardenCafePopupBroadcastFirst			200213
+200230	200230		v3.6 Commercial District - First Entry	1		200230	UiSkyGardenShoppingStreetMain			200230
+200231	200231		v3.6 Commercial District - On 1-1 Preparation Interface	1	[50010023, 50010021]	200231	UiSkyGardenShoppingStreetGame			200231
+200232	200232		v3.6 Commercial District - On 1-1 Gameplay Interface	1	[50010023, 50010022]	200232	UiSkyGardenShoppingStreetGame			200232
+200233	200233		v3.6 Commercial District - Tip Bubbles During Operation Phase	1	[50010024, 50010022]	200233	UiSkyGardenShoppingStreetGame			200233
+200234	200234		v3.6 Commercial District - Feedback Bubbles During Operation Phase	1	[50010025, 50010022]	200234	UiSkyGardenShoppingStreetGame			200234
+200235	200235		v3.6 Commercial District - On 1-2 Preparation Interface	1	[50010026, 50010021, 50010041, 50010042, 50010047]	200235	UiSkyGardenShoppingStreetGame	FullScreenBackground/ActivityLiBg/BuildingArea/Buildings/GridInsideBuild1/Edit/PanelLock		200235
+200236	200236		v3.6 Commercial District - On 1-3 Preparation Interface	1	[50010027, 50010021, 50010041, 50010043]	200236	UiSkyGardenShoppingStreetGame	FullScreenBackground/ActivityLiBg/BuildingArea/Buildings/GridInsideBuild5/Edit/PanelLock		200236
+200237	200237		v3.6 Commercial District - Complete Guide 200236	1	[50010021, 50010028]	200237	UiSkyGardenShoppingStreetGame			200237
+200238	200238		v3.6 Commercial District - On 2-1 Preparation Interface	1	[50010029, 50010021]	200238	UiSkyGardenShoppingStreetGame			200238
+200239	200239		v3.6 Commercial District - On 2-2 Preparation Interface	1	[50010030, 50010021, 50010044]	200239	UiSkyGardenShoppingStreetGame	FullScreenBackground/ActivityLiBg/BuildingArea/Buildings/GridInsideBuild6/Edit/PanelLock		200239
+200240	200240		v3.6 Commercial District - On 2-2 Gameplay Interface	1	[50010030, 50010022]	200240	UiSkyGardenShoppingStreetGame			200240
+200241	200241		v3.6 Commercial District - On 3-1 Preparation Interface	1	[50010031, 50010021]	200241	UiSkyGardenShoppingStreetGame			200241
+200242	200242		v3.6 Commercial District - Complete Guide 200241	1	[50010032, 50010031, 50010021, 50010045]	200242	UiSkyGardenShoppingStreetGame	FullScreenBackground/ActivityLiBg/BuildingArea/Buildings/GridInsideBuild6/Edit/PanelLock		200242
+200243	200243		v3.6 Commercial District - Buildable Outer Ring Buildings	1	[50010033, 50010034, 50010021]	200243	UiSkyGardenShoppingStreetGame			200243
+200244	200244		v3.6 Commercial District - Complete Guide 200243	1	[50010035]	200244	UiSkyGardenShoppingStreetBuild	BtnRecommend		200244
+200245	200245		v3.6 Commercial District - Sudden Event	1	[50010022, 50010033, 50010036]	200245	UiSkyGardenShoppingStreetGame			200245
+200246	200246		v3.6 Commercial District - Regular Promotion	1	[50010033, 50010037]	200246	UiSkyGardenShoppingStreetSale			200246
+200247	200247		v3.6 Commercial District - Completed Guide 200246	1	[50010038, 50010033, 50010021]	200247	UiSkyGardenShoppingStreetGame	TxtBtnChooseSale		200247
+200248	200248		v3.6 Commercial District - On 4-1 Preparation Interface	1	[50010039, 50010021]	200248	UiSkyGardenShoppingStreetGame			200248
+200249	200249		v3.6 Commercial District - News Interface	1	[50010040]	200249	UiSkyGardenShoppingStreetToastNews			200249
+200250	200250		v3.6 Commercial District - Limited-Time Promotion	1	[50010040]	200250	UiSkyGardenShoppingStreetLight			200250

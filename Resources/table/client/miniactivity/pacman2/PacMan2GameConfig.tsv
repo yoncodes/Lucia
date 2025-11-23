@@ -1,0 +1,8 @@
+Key	Value	ValueArray
+OrbScore	10	
+KillMonsterScore	30	
+ShoeMonsterScore		[25, 25, 25]
+HpScore	50	
+CharacterSpeed	30	
+CharacterTurningSpend		
+Invincible	1500	

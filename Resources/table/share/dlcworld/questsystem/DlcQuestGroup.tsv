@@ -1,0 +1,7 @@
+Id	Type	Name	Priority	IncompleteText	Icon	Quest
+1	1	Beyond Time's Shore	1		Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskObtain/DramaIcon/UiBigWorldTaskObtainDramaIconDate.png	[1001]
+2	2	Commercial Square Development Plan	1		Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskObtain/DramaIcon/UiBigWorldTaskObtainDramaIconGamePlay.png	[2001, 2004, 2005]
+4	2	Caffeine Conundrum	1		Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskObtain/DramaIcon/UiBigWorldTaskObtainDramaIconGamePlay.png	[2003]
+5	2	Leisure Time Invitation	1		Assets/Product/Texture/Image/BigWorld/Common/UiBigWorldTaskObtain/DramaIcon/UiBigWorldTaskObtainDramaIconGamePlay.png	[2002]
+6	3	A Tap on the Heart	1			[3004]
+7	3	Mechanoid Carnival	1			[3005]

@@ -1,0 +1,13 @@
+Id	GroupIcon	GroupName	SectionId
+1	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabLock.png	Group α	[101, 102, 103, 104]
+2	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabPre.png	Group β	[105, 108, 106]
+3	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabSle.png	Group α	[101, 102, 103]
+4	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleJifenBg1.png	Group β	[104, 105, 106]
+5	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabLock.png	Group γ	[108, 109]
+6	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabLock.png	Group α	[101, 102, 103]
+7	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabPre.png	Group β	[104, 105, 106, 203]
+8	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabLock.png	Group γ	[108, 109, 110]
+9	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabLock.png	Group α	[2028, 2030, 2036, 2037, 2039]
+10	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabPre.png	Group β	[2019, 2020, 2023, 2031, 2040]
+11	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabLock.png	Group γ	[2033, 2034, 2035, 2038]
+12	Assets/Product/Texture/Atlas/UiFubenChallengeMapBoss/BossSingleBtnTabLock.png	Intensive Battle	[2025, 2026, 2027, 2029, 2032]

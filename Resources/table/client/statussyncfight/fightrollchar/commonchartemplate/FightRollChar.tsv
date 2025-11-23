@@ -1,0 +1,21 @@
+Key	UiTemplate	UiCotainer	RollCharRandomRangeHorizontal	RollCharRandomRangeVertical	RollCharMinDir	RollCharMaxDir	RollCharSpeed	RollCharLifeTime	RollCharBeginOpacity	RollCharEndOpacity	RollCharChangeOpacityTime	RollCharStayDuration	RollCharStayTime	RollCharOffsetX	RollCharOffsetY	GeneralTemplate	IconUrl	IconColor	IconColorAlpha	TextColor	TextScale
+Normal	NormalTemplate	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.5	0.2	0.6	0.1	0.4	0.1	100.0	-100.0						1.5
+Crit	NormalTemplate	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.6999	0.2	1.0	0.1	0.4	0.1	100.0	-100.0						1.5
+Fire	NormalTemplate	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.5	0.2	0.6	0.1	0.4	0.1	100.0	-100.0						1.5
+Electric	NormalTemplate	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.5	0.2	0.6	0.1	0.4	0.1	100.0	-100.0						1.5
+Ice	NormalTemplate	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.5	0.2	0.6	0.1	0.4	0.1	100.0	-100.0						1.5
+Dark	NormalTemplate	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.5	0.2	0.6	0.1	0.4	0.1	100.0	-100.0						1.5
+Lifesteal	SuckBloodTemplate	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.6999	0.2	1.0	0.1	0.4	0.1	100.0	-100.0						1.5
+Cure	CureTemplate	NormalContainer	15.0	15.0			160.0	0.75		1.0	0.2	1.5	0.5		100.0						1.5
+Execute	Execution	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.6999	0.2	1.0	0.1	0.4	0.1	100.0	-100.0						1.5
+DoubleCrit	Execution	NormalContainer	50.0	55.0	-20.0	-25.0	120.0	0.6999	0.2	1.0	0.1	0.4	0.1	100.0	-100.0						1.5
+NormalMyself	NormalToSelfTemplate	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	0.8	0.1	1.5	0.5	-100.0	120.0						1.5
+CritMyself	NormalToSelfTemplate	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	1.0	0.1	1.5	0.5	-100.0	120.0						1.5
+FireMyself	NormalToSelfTemplate	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	0.8	0.1	1.5	0.5	-100.0	120.0						1.5
+ElectricMyself	NormalToSelfTemplate	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	0.8	0.1	1.5	0.5	-100.0	120.0						1.5
+IceMyself	NormalToSelfTemplate	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	0.8	0.1	1.5	0.5	-100.0	120.0						1.5
+DarkMyself	NormalToSelfTemplate	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	0.8	0.1	1.5	0.5	-100.0	120.0						1.5
+LifestealMyself	SuckBloodToSelfTemplate	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	1.0	0.1	1.5	0.5	-100.0	120.0						1.5
+CureMyself	CureToSelfTemplate	NormalContainer	15.0	15.0			160.0	0.75		1.0	0.2	1.5	0.5		120.0						1.5
+ExecuteMyself	Execution	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	1.0	0.1	1.5	0.5	-100.0	120.0						1.5
+DoubleCritMyself	Execution	NormalContainer	40.0	20.0	35.0	40.0	-150.0	0.75	0.5	1.0	0.1	1.5	0.5	-100.0	120.0						1.5

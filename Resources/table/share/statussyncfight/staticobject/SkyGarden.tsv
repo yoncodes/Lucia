@@ -1,0 +1,277 @@
+Id	CullingLayer	HasCollider	PositionX	PositionY	PositionZ	QuaternionX	QuaternionY	QuaternionZ	QuaternionW	ScaleX	ScaleY	ScaleZ	PrefabPath	ParentPathStr	EntityName	GridLocX	GridLocY	GridLocZ	EntityDataPath
+1		True	546.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X160_Y141.prefab		MG_Main_L0_X160_Y141	141	160		
+2		True	504.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X160_Y140.prefab		MG_Main_L0_X160_Y140	140	160		
+3		True	546.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X161_Y141.prefab		MG_Main_L0_X161_Y141	141	161		
+4		True	588.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X161_Y142.prefab		MG_Main_L0_X161_Y142	142	161		
+5		True	546.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X156_Y141.prefab		MG_Main_L0_X156_Y141	141	156		
+6		True	546.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X157_Y141.prefab		MG_Main_L0_X157_Y141	141	157		
+7		True	588.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X157_Y142.prefab		MG_Main_L0_X157_Y142	142	157		
+8		True	546.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X155_Y141.prefab		MG_Main_L0_X155_Y141	141	155		
+9		True	630.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X155_Y143.prefab		MG_Main_L0_X155_Y143	143	155		
+10		True	504.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X157_Y140.prefab		MG_Main_L0_X157_Y140	140	157		
+11		True	672.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X157_Y144.prefab		MG_Main_L0_X157_Y144	144	157		
+12		True	672.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X156_Y144.prefab		MG_Main_L0_X156_Y144	144	156		
+13		True	672.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X158_Y144.prefab		MG_Main_L0_X158_Y144	144	158		
+14		True	714.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X156_Y145.prefab		MG_Main_L0_X156_Y145	145	156		
+15		True	714.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X157_Y145.prefab		MG_Main_L0_X157_Y145	145	157		
+16		True	630.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X154_Y143.prefab		MG_Main_L0_X154_Y143	143	154		
+17		True	672.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X155_Y144.prefab		MG_Main_L0_X155_Y144	144	155		
+18		True	588.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X156_Y142.prefab		MG_Main_L0_X156_Y142	142	156		
+19		True	630.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X161_Y143.prefab		MG_Main_L0_X161_Y143	143	161		
+20		True	588.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X160_Y142.prefab		MG_Main_L0_X160_Y142	142	160		
+21		True	546.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X159_Y141.prefab		MG_Main_L0_X159_Y141	141	159		
+22		True	630.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X158_Y143.prefab		MG_Main_L0_X158_Y143	143	158		
+23		True	672.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X159_Y144.prefab		MG_Main_L0_X159_Y144	144	159		
+24		True	630.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X160_Y143.prefab		MG_Main_L0_X160_Y143	143	160		
+25		True	588.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X159_Y142.prefab		MG_Main_L0_X159_Y142	142	159		
+26		True	504.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X159_Y140.prefab		MG_Main_L0_X159_Y140	140	159		
+27		True	588.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X154_Y142.prefab		MG_Main_L0_X154_Y142	142	154		
+28		True	504.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X156_Y140.prefab		MG_Main_L0_X156_Y140	140	156		
+29		True	630.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X157_Y143.prefab		MG_Main_L0_X157_Y143	143	157		
+30		True	630.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X159_Y143.prefab		MG_Main_L0_X159_Y143	143	159		
+31		True	588.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X155_Y142.prefab		MG_Main_L0_X155_Y142	142	155		
+32		True	630.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X156_Y143.prefab		MG_Main_L0_X156_Y143	143	156		
+33		True	546.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X154_Y141.prefab		MG_Main_L0_X154_Y141	141	154		
+34		True	504.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X155_Y140.prefab		MG_Main_L0_X155_Y140	140	155		
+35		True	588.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X158_Y142.prefab		MG_Main_L0_X158_Y142	142	158		
+36		True	672.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X154_Y144.prefab		MG_Main_L0_X154_Y144	144	154		
+37		True	672.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X160_Y144.prefab		MG_Main_L0_X160_Y144	144	160		
+38		True	504.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X161_Y140.prefab		MG_Main_L0_X161_Y140	140	161		
+39		True	588.0	100.0	1428.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X162_Y142.prefab		MG_Main_L0_X162_Y142	142	162		
+40		True	588.0	100.0	1050.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L0_X153_Y142.prefab		MG_Main_L0_X153_Y142	142	153		
+41		True	672.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X79_Y72.prefab		MG_Main_L1_X79_Y72	72	79	1	
+42			588.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X77_Y71.prefab		MG_Main_L1_X77_Y71	71	77	1	
+43			588.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X79_Y71.prefab		MG_Main_L1_X79_Y71	71	79	1	
+44			672.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X78_Y72.prefab		MG_Main_L1_X78_Y72	72	78	1	
+45			672.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X77_Y72.prefab		MG_Main_L1_X77_Y72	72	77	1	
+46			504.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X78_Y70.prefab		MG_Main_L1_X78_Y70	70	78	1	
+47			588.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X78_Y71.prefab		MG_Main_L1_X78_Y71	71	78	1	
+48		True	588.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L1_X80_Y71.prefab		MG_Main_L1_X80_Y71	71	80	1	
+49			672.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L2_X39_Y36.prefab		MG_Main_L2_X39_Y36	36	39	2	
+50			504.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L2_X39_Y35.prefab		MG_Main_L2_X39_Y35	35	39	2	
+51			504.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L2_X40_Y35.prefab		MG_Main_L2_X40_Y35	35	40	2	
+52			504.0	100.0	1008.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L2_X38_Y35.prefab		MG_Main_L2_X38_Y35	35	38	2	
+53			672.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L2_X40_Y36.prefab		MG_Main_L2_X40_Y36	36	40	2	
+54			672.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L3_X20_Y18.prefab		MG_Main_L3_X20_Y18	18	20	3	
+55			672.0	100.0	1008.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L3_X19_Y18.prefab		MG_Main_L3_X19_Y18	18	19	3	
+56			672.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L4_X10_Y9.prefab		MG_Main_L4_X10_Y9	9	10	4	
+57				100.0					1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L5_X4_Y4.prefab		MG_Main_L5_X4_Y4	4	4	5	
+58				100.0					1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Main_L8_X0_Y0.prefab		MG_Main_L8_X0_Y0			8	
+59	1	True	576.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X85_Y73.prefab		MG_Building_L0_X85_Y73	73	85		
+60	1	True	576.0	100.0	1408.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X86_Y73.prefab		MG_Building_L0_X86_Y73	73	86		
+61	1	True	512.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X85_Y72.prefab		MG_Building_L0_X85_Y72	72	85		
+62	1		448.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X83_Y71.prefab		MG_Building_L0_X83_Y71	71	83		
+63	1	True	512.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X83_Y72.prefab		MG_Building_L0_X83_Y72	72	83		
+64	1	True	640.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X84_Y74.prefab		MG_Building_L0_X84_Y74	74	84		
+65	1	True	512.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X82_Y72.prefab		MG_Building_L0_X82_Y72	72	82		
+66	1	True	704.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X85_Y75.prefab		MG_Building_L0_X85_Y75	75	85		
+67	1		640.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X83_Y74.prefab		MG_Building_L0_X83_Y74	74	83		
+68	1		576.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X83_Y73.prefab		MG_Building_L0_X83_Y73	73	83		
+69	1		640.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X82_Y74.prefab		MG_Building_L0_X82_Y74	74	82		
+70	1	True	576.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X82_Y73.prefab		MG_Building_L0_X82_Y73	73	82		
+71	1		576.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X84_Y73.prefab		MG_Building_L0_X84_Y73	73	84		
+72	1	True	704.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X83_Y75.prefab		MG_Building_L0_X83_Y75	75	83		
+73	1		640.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X81_Y74.prefab		MG_Building_L0_X81_Y74	74	81		
+74	1		640.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X85_Y74.prefab		MG_Building_L0_X85_Y74	74	85		
+75	1		704.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X82_Y75.prefab		MG_Building_L0_X82_Y75	75	82		
+76	1		576.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L0_X81_Y73.prefab		MG_Building_L0_X81_Y73	73	81		
+77	1		384.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X42_Y35.prefab		MG_Building_L1_X42_Y35	35	42	1	
+78	1		1152.0	100.0	1536.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X44_Y41.prefab		MG_Building_L1_X44_Y41	41	44	1	
+79	1		1024.0	100.0	1536.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X44_Y40.prefab		MG_Building_L1_X44_Y40	40	44	1	
+80	1		896.0	100.0	1536.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X44_Y39.prefab		MG_Building_L1_X44_Y39	39	44	1	
+81	1		768.0	100.0	1408.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X43_Y38.prefab		MG_Building_L1_X43_Y38	38	43	1	
+82	1		768.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X42_Y38.prefab		MG_Building_L1_X42_Y38	38	42	1	
+83	1		512.0	100.0	896.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X39_Y36.prefab		MG_Building_L1_X39_Y36	36	39	1	
+84	1	True	640.0	100.0	1024.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X40_Y37.prefab		MG_Building_L1_X40_Y37	37	40	1	
+85	1		512.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X41_Y36.prefab		MG_Building_L1_X41_Y36	36	41	1	
+86	1	True	640.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X42_Y37.prefab		MG_Building_L1_X42_Y37	37	42	1	
+87	1		640.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L1_X41_Y37.prefab		MG_Building_L1_X41_Y37	37	41	1	
+88	1		512.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L2_X21_Y18.prefab		MG_Building_L2_X21_Y18	18	21	2	
+89	1	True	768.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L2_X21_Y19.prefab		MG_Building_L2_X21_Y19	19	21	2	
+90	1		768.0	100.0	1536.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L2_X22_Y19.prefab		MG_Building_L2_X22_Y19	19	22	2	
+91	1		1024.0	100.0	1536.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L2_X22_Y20.prefab		MG_Building_L2_X22_Y20	20	22	2	
+92	1		1024.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L2_X21_Y20.prefab		MG_Building_L2_X21_Y20	20	21	2	
+93	1		512.0	100.0	1024.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L2_X20_Y18.prefab		MG_Building_L2_X20_Y18	18	20	2	
+94	1		512.0	100.0	768.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L2_X19_Y18.prefab		MG_Building_L2_X19_Y18	18	19	2	
+95	1		512.0	100.0	1024.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L3_X10_Y9.prefab		MG_Building_L3_X10_Y9	9	10	3	
+96	1		1024.0	100.0	1024.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L3_X10_Y10.prefab		MG_Building_L3_X10_Y10	10	10	3	
+97	1			100.0					1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L5_X2_Y2.prefab		MG_Building_L5_X2_Y2	2	2	5	
+98	1			100.0					1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Building_L7_X0_Y0.prefab		MG_Building_L7_X0_Y0			7	
+99	2	True	546.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X160_Y141.prefab		MG_Vegetation_L0_X160_Y141	141	160		
+100	2		588.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X160_Y142.prefab		MG_Vegetation_L0_X160_Y142	142	160		
+101	2		546.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X159_Y141.prefab		MG_Vegetation_L0_X159_Y141	141	159		
+102	2		630.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X160_Y143.prefab		MG_Vegetation_L0_X160_Y143	143	160		
+103	2	True	546.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X161_Y141.prefab		MG_Vegetation_L0_X161_Y141	141	161		
+104	2		588.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X161_Y142.prefab		MG_Vegetation_L0_X161_Y142	142	161		
+105	2		630.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X161_Y143.prefab		MG_Vegetation_L0_X161_Y143	143	161		
+106	2		504.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X160_Y140.prefab		MG_Vegetation_L0_X160_Y140	140	160		
+107	2		588.0	100.0	1428.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X162_Y142.prefab		MG_Vegetation_L0_X162_Y142	142	162		
+108	2		546.0	100.0	1428.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X162_Y141.prefab		MG_Vegetation_L0_X162_Y141	141	162		
+109	2		504.0	100.0	1386.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X161_Y140.prefab		MG_Vegetation_L0_X161_Y140	140	161		
+110	2	True	588.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X159_Y142.prefab		MG_Vegetation_L0_X159_Y142	142	159		
+111	2			100.0					1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X128_Y128.prefab		MG_Vegetation_L0_X128_Y128	128	128		
+112	2		504.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X159_Y140.prefab		MG_Vegetation_L0_X159_Y140	140	159		
+113	2		714.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X157_Y145.prefab		MG_Vegetation_L0_X157_Y145	145	157		
+114	2	True	672.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X156_Y144.prefab		MG_Vegetation_L0_X156_Y144	144	156		
+115	2		672.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X157_Y144.prefab		MG_Vegetation_L0_X157_Y144	144	157		
+116	2		714.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X156_Y145.prefab		MG_Vegetation_L0_X156_Y145	145	156		
+117	2	True	630.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X155_Y143.prefab		MG_Vegetation_L0_X155_Y143	143	155		
+118	2	True	630.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X156_Y143.prefab		MG_Vegetation_L0_X156_Y143	143	156		
+119	2	True	588.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X155_Y142.prefab		MG_Vegetation_L0_X155_Y142	142	155		
+120	2		672.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X159_Y144.prefab		MG_Vegetation_L0_X159_Y144	144	159		
+121	2	True	630.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X157_Y143.prefab		MG_Vegetation_L0_X157_Y143	143	157		
+122	2	True	546.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X156_Y141.prefab		MG_Vegetation_L0_X156_Y141	141	156		
+123	2	True	588.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X156_Y142.prefab		MG_Vegetation_L0_X156_Y142	142	156		
+124	2		672.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X158_Y144.prefab		MG_Vegetation_L0_X158_Y144	144	158		
+125	2		630.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X158_Y143.prefab		MG_Vegetation_L0_X158_Y143	143	158		
+126	2		672.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X155_Y144.prefab		MG_Vegetation_L0_X155_Y144	144	155		
+127	2	True	630.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X154_Y143.prefab		MG_Vegetation_L0_X154_Y143	143	154		
+128	2	True	588.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X157_Y142.prefab		MG_Vegetation_L0_X157_Y142	142	157		
+129	2	True	588.0	100.0	1050.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X153_Y142.prefab		MG_Vegetation_L0_X153_Y142	142	153		
+130	2	True	588.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X154_Y142.prefab		MG_Vegetation_L0_X154_Y142	142	154		
+131	2	True	546.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X155_Y141.prefab		MG_Vegetation_L0_X155_Y141	141	155		
+132	2		672.0	100.0	1092.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X154_Y144.prefab		MG_Vegetation_L0_X154_Y144	144	154		
+133	2		630.0	100.0	1302.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X159_Y143.prefab		MG_Vegetation_L0_X159_Y143	143	159		
+134	2		546.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X157_Y141.prefab		MG_Vegetation_L0_X157_Y141	141	157		
+135	2		504.0	100.0	1176.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X156_Y140.prefab		MG_Vegetation_L0_X156_Y140	140	156		
+136	2		504.0	100.0	1218.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X157_Y140.prefab		MG_Vegetation_L0_X157_Y140	140	157		
+137	2		504.0	100.0	1134.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X155_Y140.prefab		MG_Vegetation_L0_X155_Y140	140	155		
+138	2		546.0	100.0	1050.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X153_Y141.prefab		MG_Vegetation_L0_X153_Y141	141	153		
+139	2	True	588.0	100.0	1260.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X158_Y142.prefab		MG_Vegetation_L0_X158_Y142	142	158		
+140	2		672.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X160_Y144.prefab		MG_Vegetation_L0_X160_Y144	144	160		
+141	2		630.0	100.0	1050.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Vegetation_L0_X153_Y143.prefab		MG_Vegetation_L0_X153_Y143	143	153		
+142	3	True	506.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X153_Y139.prefab		MG_Tree_L0_X153_Y139	139	153		
+143	3	True	552.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X154_Y140.prefab		MG_Tree_L0_X154_Y140	140	154		
+144	3	True	644.0	100.0	1104.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X152_Y142.prefab		MG_Tree_L0_X152_Y142	142	152		
+145	3	True	644.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X153_Y142.prefab		MG_Tree_L0_X153_Y142	142	153		
+146	3	True	690.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X153_Y143.prefab		MG_Tree_L0_X153_Y143	143	153		
+147	3	True	598.0	100.0	1242.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X155_Y141.prefab		MG_Tree_L0_X155_Y141	141	155		
+148	3	True	644.0	100.0	1242.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X155_Y142.prefab		MG_Tree_L0_X155_Y142	142	155		
+149	3	True	644.0	100.0	1288.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X156_Y142.prefab		MG_Tree_L0_X156_Y142	142	156		
+150	3	True	598.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X153_Y141.prefab		MG_Tree_L0_X153_Y141	141	153		
+151	3	True	598.0	100.0	1104.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X152_Y141.prefab		MG_Tree_L0_X152_Y141	141	152		
+152	3	True	598.0	100.0	1058.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X151_Y141.prefab		MG_Tree_L0_X151_Y141	141	151		
+153	3	True	552.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X157_Y140.prefab		MG_Tree_L0_X157_Y140	140	157		
+154	3	True	598.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X157_Y141.prefab		MG_Tree_L0_X157_Y141	141	157		
+155	3		690.0	100.0	1380.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X158_Y143.prefab		MG_Tree_L0_X158_Y143	143	158		
+156	3		736.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X159_Y144.prefab		MG_Tree_L0_X159_Y144	144	159		
+157	3		782.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X159_Y145.prefab		MG_Tree_L0_X159_Y145	145	159		
+158	3		690.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X159_Y143.prefab		MG_Tree_L0_X159_Y143	143	159		
+159	3		644.0	100.0	1380.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X158_Y142.prefab		MG_Tree_L0_X158_Y142	142	158		
+160	3		782.0	100.0	1518.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X161_Y145.prefab		MG_Tree_L0_X161_Y145	145	161		
+161	3		690.0	100.0	1472.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X160_Y143.prefab		MG_Tree_L0_X160_Y143	143	160		
+162	3		644.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X159_Y142.prefab		MG_Tree_L0_X159_Y142	142	159		
+163	3		644.0	100.0	1472.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X160_Y142.prefab		MG_Tree_L0_X160_Y142	142	160		
+164	3		736.0	100.0	1518.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X161_Y144.prefab		MG_Tree_L0_X161_Y144	144	161		
+165	3		736.0	100.0	1472.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X160_Y144.prefab		MG_Tree_L0_X160_Y144	144	160		
+166	3		828.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X159_Y146.prefab		MG_Tree_L0_X159_Y146	146	159		
+167	3		598.0	100.0	1380.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X158_Y141.prefab		MG_Tree_L0_X158_Y141	141	158		
+168	3	True	644.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X157_Y142.prefab		MG_Tree_L0_X157_Y142	142	157		
+169	3	True	690.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X157_Y143.prefab		MG_Tree_L0_X157_Y143	143	157		
+170	3		736.0	100.0	1380.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X158_Y144.prefab		MG_Tree_L0_X158_Y144	144	158		
+171	3	True	598.0	100.0	1288.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X156_Y141.prefab		MG_Tree_L0_X156_Y141	141	156		
+172	3	True	506.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X154_Y139.prefab		MG_Tree_L0_X154_Y139	139	154		
+173	3	True	644.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X154_Y142.prefab		MG_Tree_L0_X154_Y142	142	154		
+174	3	True	690.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X154_Y143.prefab		MG_Tree_L0_X154_Y143	143	154		
+175	3	True	690.0	100.0	1242.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X155_Y143.prefab		MG_Tree_L0_X155_Y143	143	155		
+176	3	True	644.0	100.0	1058.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X151_Y142.prefab		MG_Tree_L0_X151_Y142	142	151		
+177	3		598.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L0_X154_Y141.prefab		MG_Tree_L0_X154_Y141	141	154		
+178	3		644.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L1_X77_Y71.prefab		MG_Tree_L1_X77_Y71	71	77	1	
+179	3		552.0	100.0	1104.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Tree_L2_X38_Y35.prefab		MG_Tree_L2_X38_Y35	35	38	2	
+180	4		640.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Ground_L0_X81_Y74.prefab		MG_Ground_L0_X81_Y74	74	81		
+181	4			100.0					1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Ground_L7_X0_Y0.prefab		MG_Ground_L7_X0_Y0			7	
+182	5		544.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X170_Y145.prefab		MG_Light_L0_X170_Y145	145	170		
+183	5		576.0	100.0	1312.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X169_Y146.prefab		MG_Light_L0_X169_Y146	146	169		
+184	5		608.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X170_Y147.prefab		MG_Light_L0_X170_Y147	147	170		
+185	5		576.0	100.0	1376.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X171_Y146.prefab		MG_Light_L0_X171_Y146	146	171		
+186	5		576.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X170_Y146.prefab		MG_Light_L0_X170_Y146	146	170		
+187	5		544.0	100.0	1312.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X169_Y145.prefab		MG_Light_L0_X169_Y145	145	169		
+188	5		512.0	100.0	1312.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X169_Y144.prefab		MG_Light_L0_X169_Y144	144	169		
+189	5		544.0	100.0	1408.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X172_Y145.prefab		MG_Light_L0_X172_Y145	145	172		
+190	5		512.0	100.0	1376.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X171_Y144.prefab		MG_Light_L0_X171_Y144	144	171		
+191	5		576.0	100.0	1184.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X165_Y146.prefab		MG_Light_L0_X165_Y146	146	165		
+192	5		576.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X164_Y146.prefab		MG_Light_L0_X164_Y146	146	164		
+193	5		544.0	100.0	1184.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X165_Y145.prefab		MG_Light_L0_X165_Y145	145	165		
+194	5		576.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X166_Y146.prefab		MG_Light_L0_X166_Y146	146	166		
+195	5		608.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X166_Y147.prefab		MG_Light_L0_X166_Y147	147	166		
+196	5		608.0	100.0	1184.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X165_Y147.prefab		MG_Light_L0_X165_Y147	147	165		
+197	5		576.0	100.0	1120.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X163_Y146.prefab		MG_Light_L0_X163_Y146	146	163		
+198	5		672.0	100.0	1248.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X167_Y149.prefab		MG_Light_L0_X167_Y149	149	167		
+199	5		640.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X168_Y148.prefab		MG_Light_L0_X168_Y148	148	168		
+200	5		672.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X166_Y149.prefab		MG_Light_L0_X166_Y149	149	166		
+201	5		544.0	100.0	1120.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X163_Y145.prefab		MG_Light_L0_X163_Y145	145	163		
+202	5		544.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X164_Y145.prefab		MG_Light_L0_X164_Y145	145	164		
+203	5		608.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X164_Y147.prefab		MG_Light_L0_X164_Y147	147	164		
+204	5		544.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X166_Y145.prefab		MG_Light_L0_X166_Y145	145	166		
+205	5		512.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X164_Y144.prefab		MG_Light_L0_X164_Y144	144	164		
+206	5		672.0	100.0	1184.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X165_Y149.prefab		MG_Light_L0_X165_Y149	149	165		
+207	5		640.0	100.0	1120.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X163_Y148.prefab		MG_Light_L0_X163_Y148	148	163		
+208	5		672.0	100.0	1120.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X163_Y149.prefab		MG_Light_L0_X163_Y149	149	163		
+209	5		672.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X164_Y149.prefab		MG_Light_L0_X164_Y149	149	164		
+210	5		640.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X162_Y148.prefab		MG_Light_L0_X162_Y148	148	162		
+211	5		640.0	100.0	1248.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X167_Y148.prefab		MG_Light_L0_X167_Y148	148	167		
+212	5		672.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X168_Y149.prefab		MG_Light_L0_X168_Y149	149	168		
+213	5		640.0	100.0	1312.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X169_Y148.prefab		MG_Light_L0_X169_Y148	148	169		
+214	5		704.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X166_Y150.prefab		MG_Light_L0_X166_Y150	150	166		
+215	5		704.0	100.0	1184.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X165_Y150.prefab		MG_Light_L0_X165_Y150	150	165		
+216	5		704.0	100.0	1376.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X171_Y150.prefab		MG_Light_L0_X171_Y150	150	171		
+217	5		736.0	100.0	1376.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X171_Y151.prefab		MG_Light_L0_X171_Y151	151	171		
+218	5		608.0	100.0	1248.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X167_Y147.prefab		MG_Light_L0_X167_Y147	147	167		
+219	5		672.0	100.0	1312.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X169_Y149.prefab		MG_Light_L0_X169_Y149	149	169		
+220	5		608.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X162_Y147.prefab		MG_Light_L0_X162_Y147	147	162		
+221	5		640.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X164_Y148.prefab		MG_Light_L0_X164_Y148	148	164		
+222	5		640.0	100.0	1184.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X165_Y148.prefab		MG_Light_L0_X165_Y148	148	165		
+223	5		608.0	100.0	1120.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Light_L0_X163_Y147.prefab		MG_Light_L0_X163_Y147	147	163		
+224	6		704.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_Volume_L1_X83_Y75.prefab		MG_Volume_L1_X83_Y75	75	83	1	
+225	7	True	576.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X85_Y73.prefab		MG_BuildingMiddle_L0_X85_Y73	73	85		
+226	7	True	576.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X82_Y73.prefab		MG_BuildingMiddle_L0_X82_Y73	73	82		
+227	7	True	512.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X82_Y72.prefab		MG_BuildingMiddle_L0_X82_Y72	72	82		
+228	7	True	576.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X83_Y73.prefab		MG_BuildingMiddle_L0_X83_Y73	73	83		
+229	7	True	576.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X81_Y73.prefab		MG_BuildingMiddle_L0_X81_Y73	73	81		
+230	7	True	640.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X83_Y74.prefab		MG_BuildingMiddle_L0_X83_Y74	74	83		
+231	7	True	640.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X81_Y74.prefab		MG_BuildingMiddle_L0_X81_Y74	74	81		
+232	7	True	640.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X82_Y74.prefab		MG_BuildingMiddle_L0_X82_Y74	74	82		
+233	7	True	576.0	100.0	1024.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X80_Y73.prefab		MG_BuildingMiddle_L0_X80_Y73	73	80		
+234	7	True	576.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X84_Y73.prefab		MG_BuildingMiddle_L0_X84_Y73	73	84		
+235	7	True	640.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X84_Y74.prefab		MG_BuildingMiddle_L0_X84_Y74	74	84		
+236	7	True	512.0	100.0	1408.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X86_Y72.prefab		MG_BuildingMiddle_L0_X86_Y72	72	86		
+237	7	True	512.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X85_Y72.prefab		MG_BuildingMiddle_L0_X85_Y72	72	85		
+238	7	True	512.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X83_Y72.prefab		MG_BuildingMiddle_L0_X83_Y72	72	83		
+239	7		512.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X81_Y72.prefab		MG_BuildingMiddle_L0_X81_Y72	72	81		
+240	7	True	512.0	100.0	1024.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X80_Y72.prefab		MG_BuildingMiddle_L0_X80_Y72	72	80		
+241	7		704.0	100.0	1216.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X83_Y75.prefab		MG_BuildingMiddle_L0_X83_Y75	75	83		
+242	7	True	640.0	100.0	1344.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X85_Y74.prefab		MG_BuildingMiddle_L0_X85_Y74	74	85		
+243	7		704.0	100.0	1088.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X81_Y75.prefab		MG_BuildingMiddle_L0_X81_Y75	75	81		
+244	7		704.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L0_X82_Y75.prefab		MG_BuildingMiddle_L0_X82_Y75	75	82		
+245	7		512.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L1_X41_Y36.prefab		MG_BuildingMiddle_L1_X41_Y36	36	41	1	
+246	7	True	640.0	100.0	1152.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L1_X41_Y37.prefab		MG_BuildingMiddle_L1_X41_Y37	37	41	1	
+247	7		640.0	100.0	1280.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L1_X42_Y37.prefab		MG_BuildingMiddle_L1_X42_Y37	37	42	1	
+248	7			100.0					1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_BuildingMiddle_L7_X0_Y0.prefab		MG_BuildingMiddle_L7_X0_Y0			7	
+249	8	True	644.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X153_Y142.prefab		MG_HighProps_L0_X153_Y142	142	153		
+250	8	True	598.0	100.0	1380.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X158_Y141.prefab		MG_HighProps_L0_X158_Y141	141	158		
+251	8	True	552.0	100.0	1380.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X158_Y140.prefab		MG_HighProps_L0_X158_Y140	140	158		
+252	8	True	506.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X157_Y139.prefab		MG_HighProps_L0_X157_Y139	139	157		
+253	8	True	552.0	100.0	1288.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X156_Y140.prefab		MG_HighProps_L0_X156_Y140	140	156		
+254	8	True	552.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X159_Y140.prefab		MG_HighProps_L0_X159_Y140	140	159		
+255	8		506.0	100.0	1380.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X158_Y139.prefab		MG_HighProps_L0_X158_Y139	139	158		
+256	8		506.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X159_Y139.prefab		MG_HighProps_L0_X159_Y139	139	159		
+257	8	True	598.0	100.0	1426.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X159_Y141.prefab		MG_HighProps_L0_X159_Y141	141	159		
+258	8	True	598.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X157_Y141.prefab		MG_HighProps_L0_X157_Y141	141	157		
+259	8	True	506.0	100.0	1288.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X156_Y139.prefab		MG_HighProps_L0_X156_Y139	139	156		
+260	8	True	552.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X157_Y140.prefab		MG_HighProps_L0_X157_Y140	140	157		
+261	8	True	552.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X153_Y140.prefab		MG_HighProps_L0_X153_Y140	140	153		
+262	8	True	552.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X154_Y140.prefab		MG_HighProps_L0_X154_Y140	140	154		
+263	8	True	644.0	100.0	1288.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X156_Y142.prefab		MG_HighProps_L0_X156_Y142	142	156		
+264	8	True	598.0	100.0	1104.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X152_Y141.prefab		MG_HighProps_L0_X152_Y141	141	152		
+265	8	True	598.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X154_Y141.prefab		MG_HighProps_L0_X154_Y141	141	154		
+266	8	True	552.0	100.0	1104.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X152_Y140.prefab		MG_HighProps_L0_X152_Y140	140	152		
+267	8	True	644.0	100.0	1242.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X155_Y142.prefab		MG_HighProps_L0_X155_Y142	142	155		
+268	8	True	644.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X154_Y142.prefab		MG_HighProps_L0_X154_Y142	142	154		
+269	8	True	598.0	100.0	1242.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X155_Y141.prefab		MG_HighProps_L0_X155_Y141	141	155		
+270	8	True	644.0	100.0	1104.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X152_Y142.prefab		MG_HighProps_L0_X152_Y142	142	152		
+271	8	True	598.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X153_Y141.prefab		MG_HighProps_L0_X153_Y141	141	153		
+272	8	True	644.0	100.0	1334.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X157_Y142.prefab		MG_HighProps_L0_X157_Y142	142	157		
+273	8	True	598.0	100.0	1288.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X156_Y141.prefab		MG_HighProps_L0_X156_Y141	141	156		
+274	8	True	690.0	100.0	1196.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X154_Y143.prefab		MG_HighProps_L0_X154_Y143	143	154		
+275	8	True	690.0	100.0	1150.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X153_Y143.prefab		MG_HighProps_L0_X153_Y143	143	153		
+276	8	True	690.0	100.0	1242.0				1.0	1.0	1.0	1.0	Assets/Product/BigWorld/SkyGarden/StaticPrefabs/MG_HighProps_L0_X155_Y143.prefab		MG_HighProps_L0_X155_Y143	143	155		

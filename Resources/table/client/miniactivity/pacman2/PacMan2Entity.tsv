@@ -1,0 +1,13 @@
+Id	Desc	Type	Name	Speed	TurningDuration	AlertX	AlertY	AlertVisibility	Params	Score	Icon
+1	Crystals scattered around the byte world. Collect a specific amount of these crystals to contact the Escape Car's emergency channel.	1	Byte Crystal								Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon07.png
+2	Escape car, warp car, all-powerful car... Whatever you call it, it still does the same thing.	2	Escape Car								Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon15.png
+3	Touch it and you'll gain 1 HP. Don't waste time finding out how it works. Everything's possible in the world of bytes.	3	Health Crystal						[1]		Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon04.png
+4	Pick it up and all monsters on the map will turn into edible food. Now take your revenge on the monsters!	4	Foodie						[5]		Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon12.png
+5	Pick it up to move faster for a certain amount of time and turn all monsters on the map to running shoes. Touch the shoes to refresh the duration.	5	Sprinter						[5]		Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon14.png
+6	The most common monster in the world of bytes. It doesn't have any skills. However, you will lose 1 HP if you touch it.	6	Hybrid	23		3	3				Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon02.png
+7	A monster in the world of bytes. It moves fast in a straight line but doesn't look very flexible.	7	Eclipser	30	1	4	4	True			Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon05.png
+8	A monster in the world of bytes. It can slow down things within a certain range around it. You will be automatically slowed down when you get close to it.	8	Ooze	18		4	4		[90, 3, 3]		Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon03.png
+9	Running Shoes (1 = Duration (To Be Deleted), 2 = Speed Upon Consumption, 3 = Stack Speedup)	9	Shoes	18					[5, 35, 2]		Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon20.png
+10	Pick it up to create a clone of yourself to attract the monsters. It will stun any monster it touches and eat Byte Crystals just like you.	10	Clone	30					[2, 1]		Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon08.png
+11	Food monster	11	Food	21							Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon06.png
+12	"Pick it up and an escape route will automatically open up for you. ""Watch this! Here's my escape route!"""	12	Portal								Assets/Product/TileMap/PacMan2/PacMan2Asset/PacMan2Icon/UIPacman2Icon10.png

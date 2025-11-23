@@ -1,0 +1,2 @@
+LevelId	PosX	PosZ	PixelRatio	Width	Height	MapName	BaseImage	LittleMapScale	MaxScale	MinScale	DefaultScale	AreaGroupIds
+4001	516.2999	1254.0	5	3400	3400	Babylonia - Commercial District A	Assets/Product/Texture/Image/BigWorld/SkyGarden/UiSkyGardenMap/BigMap/Bg_Exclude.png	0.5	1.5	0.75	1.0	[101, 102, 103]

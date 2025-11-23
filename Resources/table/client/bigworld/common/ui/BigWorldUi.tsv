@@ -1,0 +1,50 @@
+UiName	IsPauseFight	IsChangeInput	IsQueue	IsHideFightUi	IsCloseCameraControl	IsVirtual	ImpactIds
+UiBigWorldMenu	True	True	True				
+UiBigWorldTaskMain	True	True					[1]
+UiBigWorldLineChapter	True	True					
+UiBigWorldPopupConfirm	True	True					
+UiBigWorldMessageTips			True	True			
+UiBigWorldTaskObtain		True	True				
+UiBigWorldTaskObtainDrama		True	True				
+UiBigWorldTaskObtainDramaHeart		True	True				
+UiSkyGardenCafeMain		True					[1]
+UiSkyGardenCafeHandBook		True					
+UiSkyGardenCafeGame		True					
+UiBigWorldMessage		True		True			[1]
+UiBigWorldPopupMessage		True					
+UiBigWorldPopupMessageSingle		True	True				
+UiBigWorldLittleMap						True	
+UiBigWorldMapDetail	True	True					
+UiBigWorldMap	True	True					[1]
+UiBigWorldDIY	True	True					
+UiBigWorldBackpack	True	True		True			
+UiBigWorldObtain	True	True	True				
+UiBigWorldObtainSpecial			True				
+UiSkyGardenShoppingStreetMain		True					[1]
+UiSkyGardenShoppingStreetGame		True					[1]
+UiSkyGardenShoppingStreetInsideBuild		True					[1]
+UiSkyGardenShoppingStreetBuild		True					[1]
+UiSkyGardenShoppingStreetTarget		True					[1]
+UiSkyGardenShoppingStreetPopupRoundEnd		True					[1]
+UiSkyGardenShoppingStreetLight		True					[1]
+UiSkyGardenShoppingStreetUpgrade		True					[1]
+UiSkyGardenShoppingStreetSale		True					[1]
+UiSkyGardenDormPhotoWall		True					[1]
+UiSkyGardenDormCoating		True					[1]
+UiBigWorldPopupTeach	True	True	True				
+UiBigWorldPopupQuitShow	True	True					
+UiBigWorldPhotographControl		True					[1]
+UiBigWorldPhotographPopupAlbum	True	True					
+UiBigWorldPhotographPopupAlbumDetail	True	True					
+UiBigWorldPhotographPopupPhoto	True	True					
+UiBigWorldTrialRolePopup		True	True				
+UiBigWorldTeachTips			True				
+UiBigWorldProcess	True	True					[1]
+UiBigWorldRewardSidebar			True				
+UiBigWorldRoleRoom	True	True					[1]
+UiBigWorldCoating	True	True					[1]
+UiBigWorldSet	True	True					[1]
+UiBigWorldTeachMain		True					[1]
+UiBigWorldSettlement		True					
+UiBigWorldPopupSkipDialogue	True	True					
+UiBigWorldTip	True	True	True				

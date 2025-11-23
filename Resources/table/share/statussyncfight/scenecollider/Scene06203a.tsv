@@ -1,0 +1,2 @@
+Id	Group	Type	PositionX	PositionY	PositionZ	QuaternionX	QuaternionY	QuaternionZ	QuaternionW	ScaleX	ScaleY	ScaleZ	SizeX	SizeY	SizeZ	Direction	Mesh	Convex	CameraBlockHandleTag
+1	Cube (4)	MeshCollider	262.445	24.1735	121.5				1.0	609.5076	1.0	286.1513					Cube		

@@ -1,0 +1,16 @@
+ActivityId	MainTimeId	MainTemplateId	MainTemplateCount	TaskSourceGroupId	ShopId	EventCause	ExtraItem	PeriodId	Name	Kind	IsMajorActivity	SkipId	ActivityIcon	Description
+39001	42911	[50005, 102]	[100, 200]			[16014]		[3900101]	All-Loving Compassion	[1]		20235	Assets/Product/Texture/Image/UiTodolist/UiTodolist151.png	
+39002	42402	[90031, 31104, 1]	[1, 3, 12000]	39002				[3900201]	Lotus Melody	[22]		10035	Assets/Product/Texture/Image/UiTodolist/UiTodolist152.png	
+39003	42101	[90031, 31204, 1]	[1, 10, 12000]	39003				[3900301]	Nightfall Finale	[22]		20299	Assets/Product/Texture/Image/UiTodolist/UiTodolist153.png	
+39004	42710	[3, 102, 25000012]	[250, 200, 1]			[203200]		[3900401]	Tactical Analysis Compilation	[5]		90010	Assets/Product/Texture/Image/UiTodolist/UiTodolist154.png	
+39005	42102	[6003907, 80123, 50005]	[1, 1, 1000]		[1453]	[240003]		[3900501]	Stellar Rush	[8]		89100	Assets/Product/Texture/Image/UiTodolist/UiTodolist155.png	
+39006	42301	[50005, 102]	[250, 200]			[16013]		[3900601]	Death's Net	[6]		11724	Assets/Product/Texture/Image/UiTodolist/UiTodolist156.png	
+39007	42921	[50005, 102]	[250, 500]		[1452]			[3900701]	Fluffy Snooze	[8]		89075	Assets/Product/Texture/Image/UiTodolist/UiTodolist157.png	
+39008	42712	[50005, 102, 25000011]	[2500, 2000, 1]			[214001, 209001, 210001, 219001, 217001]		[3900801]	Babylonia - Commercial District	[6]		89076	Assets/Product/Texture/Image/UiTodolist/UiTodolist158.png	
+39009	42508	[3, 102]	[100, 100]			[194002]		[3900901]	虚像妄念	[8]		89037	Assets/Product/Texture/Image/UiTodolist/UiTodolist159.png	
+38002	41604	[90031, 31104, 1]	[1, 3, 12000]	38002				[3800201]	Sash of Silence	[22]		10035	Assets/Product/Texture/Image/UiTodolist/UiTodolist143.png	
+38003	41605	[90031, 31204, 1]	[1, 10, 12000]	38003				[3800301]	Roulette of Stolen Time	[22]		10035	Assets/Product/Texture/Image/UiTodolist/UiTodolist144.png	
+36007	39805	[90031, 31204, 1]	[1, 10, 12000]	36007				[3600701]	Thorns of Crimson	[22]		10035	Assets/Product/Texture/Image/UiTodolist/UiTodolist124.png	
+36009	39200	[90031, 31204, 1]	[1, 10, 12000]	36009				[3600901]	Threads of Destiny	[22]		90036	Assets/Product/Texture/Image/UiTodolist/UiTodolist126.png	
+37002	40302	[90031, 31104, 1]	[1, 3, 12000]	37002				[3700201]	Infernal Deliverance	[22]		10035	Assets/Product/Texture/Image/UiTodolist/UiTodolist136.png	
+37003	40303	[90031, 31204, 1]	[1, 10, 12000]	37003				[3700301]	Sparragon's Triumph	[22]		10035	Assets/Product/Texture/Image/UiTodolist/UiTodolist135.png	

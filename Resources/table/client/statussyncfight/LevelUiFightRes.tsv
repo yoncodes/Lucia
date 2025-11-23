@@ -1,0 +1,3 @@
+Id	UiType	PrefabUrl	ScriptName	IsOpen
+1				
+2	[1, 2, 9, 1001, 4]	['Assets/Product/Ui/ComponentPrefab/UiFightDlc/UiDlcRelink/UiDlcRelinkJoystickNode.prefab', 'Assets/Product/Ui/ComponentPrefab/UiFightDlc/UiDlcRelink/UiDlcRelinkCharacterControlPanel3.prefab', 'Assets/Product/Ui/ComponentPrefab/UiFightDlc/UiDlcRelink/UiNpcFillBar/Lifu/UiDlcRelinkEnergyR4Lifu.prefab', 'Assets/Product/Ui/ComponentPrefab/UiFightDlc/UiDlcRelink/UiDlcRelinkTeamInfo.prefab', 'Assets/Product/Ui/ComponentPrefab/UiFightDlc/UiDlcRelink/UiDlcRelinkStagePanel.prefab']	['XUiFightDlcRelinkJoystickNode', 'XUiFightDlcRelink3SkillNode', 'XUiFightDlcRelinkEnergyNode', 'XUiFightDlcRelinkTeamInformationNode', 'XUiFightDlcRelinkStagePanelNode']	[True, True, True, True, None]

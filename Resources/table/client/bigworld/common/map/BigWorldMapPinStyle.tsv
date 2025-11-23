@@ -1,0 +1,12 @@
+StyleId	ActiveIcon	UnActiveIcon	BriefIcon
+1	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapDeliveryPoint.png	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapDeliveryPointLock.png	Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconDeliveryPoint.png
+2	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapHostelPoint.png		Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconHostel.png
+3	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapCoffeePoint.png	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapCoffeePointLock.png	Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconCoffee.png
+4	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapJumpPoint.png		Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconJump.png
+5	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapShoppingStreetPoint.png	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapShoppingStreetPointLock.png	Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconShopStreet.png
+6	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapInnermostPoint.png		Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconInnermost.png
+7	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapPilotagePoint.png		Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconAim6.png
+8	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapRumorPoint.png		Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconBranchLine.png
+9	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapPilotPoint.png		Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconPilot.png
+10	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapElevatorPoint.png		Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldFight/Icon/UiBigWorldFightCommonTalklconLift.png
+11	Assets/Product/Texture/Atlas/BigWorld/Common/UiCommon/MapIcon/UiBigWorldMapLinkPoint.png		

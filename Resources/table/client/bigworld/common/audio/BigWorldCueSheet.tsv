@@ -1,0 +1,74 @@
+Id	CueSheetName	CueAwb	HasAwb
+500000	External/Criware/BigWorld/Common/BW_map_dormhall.acb	External/Criware/BigWorld/Common/BW_map_dormhall.awb	True
+500001	External/Criware/BigWorld/Common/BW_map_dorm.acb	External/Criware/BigWorld/Common/BW_map_dorm.awb	True
+500004	External/Criware/BigWorld/Common/BW_map_bar.acb	External/Criware/BigWorld/Common/BW_map_bar.awb	True
+500005	External/Criware/BigWorld/Common/BW_map_cafe.acb	External/Criware/BigWorld/Common/BW_map_cafe.awb	True
+500006	External/Criware/BigWorld/Common/BW_map_lobby.acb	External/Criware/BigWorld/Common/BW_map_lobby.awb	True
+500007	External/Criware/BigWorld/Common/BW_map_xiaoluheart.acb	External/Criware/BigWorld/Common/BW_map_xiaoluheart.awb	True
+500008	External/Criware/BigWorld/Common/BW_map_plaza.acb	External/Criware/BigWorld/Common/BW_map_plaza.awb	True
+500009	External/Criware/BigWorld/Common/BW_map_adaiwa.acb	External/Criware/BigWorld/Common/BW_map_adaiwa.awb	True
+500010	External/Criware/BigWorld/Common/BW_minigame_shopping_title.acb	External/Criware/BigWorld/Common/BW_minigame_shopping_title.awb	True
+500011	External/Criware/BigWorld/Common/BW_minigame_shopping_game.acb	External/Criware/BigWorld/Common/BW_minigame_shopping_game.awb	True
+550000	External/Criware/BigWorld/Common/BW_amb_common.acb	External/Criware/BigWorld/Common/BW_amb_common.awb	True
+550001	External/Criware/BigWorld/Common/BW_amb_lobby.acb	External/Criware/BigWorld/Common/BW_amb_lobby.awb	True
+550002	External/Criware/BigWorld/Common/BW_amb_plaza.acb	External/Criware/BigWorld/Common/BW_amb_plaza.awb	True
+550003	External/Criware/BigWorld/Common/BW_amb_dormroom.acb	External/Criware/BigWorld/Common/BW_amb_dormroom.awb	True
+550004	External/Criware/BigWorld/Common/BW_amb_cafe.acb	External/Criware/BigWorld/Common/BW_amb_cafe.awb	True
+550005	External/Criware/BigWorld/Common/BW_amb_club.acb	External/Criware/BigWorld/Common/BW_amb_club.awb	True
+550006	External/Criware/BigWorld/Common/BW_g_SceneItem.acb	External/Criware/BigWorld/Common/BW_g_SceneItem.awb	True
+550007	External/Criware/BigWorld/Common/BW_amb_datenight.acb	External/Criware/BigWorld/Common/BW_amb_datenight.awb	True
+550008	External/Criware/BigWorld/Common/BW_amb_findsiyecao.acb	External/Criware/BigWorld/Common/BW_amb_findsiyecao.awb	True
+550009	External/Criware/BigWorld/Common/BW_amb_mall.acb	External/Criware/BigWorld/Common/BW_amb_mall.awb	True
+550010	External/Criware/BigWorld/Common/BW_c_Move.acb		
+550011	External/Criware/BigWorld/Common/BW_amb_restaurant.acb	External/Criware/BigWorld/Common/BW_amb_restaurant.awb	True
+550012	External/Criware/BigWorld/Common/BW_amb_suspense.acb	External/Criware/BigWorld/Common/BW_amb_suspense.awb	True
+550013	External/Criware/BigWorld/Common/BW_amb_fireworks.acb	External/Criware/BigWorld/Common/BW_amb_fireworks.awb	True
+560000	External/Criware/BigWorld/Common/BW_g_ui.acb		
+570000	External/Criware/BigWorld/Common/g_ingame_minigame_kafeiting.acb		
+570001	External/Criware/BigWorld/Common/g_ingame_minigame_tiaotiaole.acb		
+570002	External/Criware/BigWorld/Common/g_ingame_minigame_shangdianjie.acb		
+580000	External/Criware/BigWorld/Common/tlsg01_1001_A1_01.acb		
+580001	External/Criware/BigWorld/Common/tlsg01_1001_A1_04.acb		
+580002	External/Criware/BigWorld/Common/tlsg01_1001_A1_24.acb		
+580003	External/Criware/BigWorld/Common/tlsg01_1001_B.acb	External/Criware/BigWorld/Common/tlsg01_1001_B.awb	True
+580004	External/Criware/BigWorld/Common/tlsg01_1001_A1_07.acb		
+580005	External/Criware/BigWorld/Common/tlsg01_1001_A1_1_02.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_1_02.awb	True
+580006	External/Criware/BigWorld/Common/tlsg01_1001_A1_1_23.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_1_23.awb	True
+580007	External/Criware/BigWorld/Common/tlsg01_1001_A1_1_22.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_1_22.awb	True
+580008	External/Criware/BigWorld/Common/tlsg01_1001_A1_08.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_08.awb	True
+580009	External/Criware/BigWorld/Common/tlsg01_1001_A1_14.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_14.awb	True
+580010	External/Criware/BigWorld/Common/tlsg01_1001_A1_15.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_15.awb	True
+580011	External/Criware/BigWorld/Common/tlsg01_1001_A1_29.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_29.awb	True
+580012	External/Criware/BigWorld/Common/tlsg01_1001_A1_31.acb	External/Criware/BigWorld/Common/tlsg01_1001_A1_31.awb	True
+510001	External/Criware/BigWorld/Common/ja/acsg01_1001.acb	External/Criware/BigWorld/Common/ja/acsg01_1001.awb	True
+520001	External/Criware/BigWorld/Common/zh/acsg01_1001.acb	External/Criware/BigWorld/Common/zh/acsg01_1001.awb	True
+530001	External/Criware/BigWorld/Common/ca/acsg01_1001.acb	External/Criware/BigWorld/Common/ca/acsg01_1001.awb	True
+540001	External/Criware/BigWorld/Common/en/acsg01_1001.acb	External/Criware/BigWorld/Common/en/acsg01_1001.awb	True
+510002	External/Criware/BigWorld/Common/ja/acsg01_2001.acb	External/Criware/BigWorld/Common/ja/acsg01_2001.awb	True
+520002	External/Criware/BigWorld/Common/zh/acsg01_2001.acb	External/Criware/BigWorld/Common/zh/acsg01_2001.awb	True
+530002	External/Criware/BigWorld/Common/ca/acsg01_2001.acb	External/Criware/BigWorld/Common/ca/acsg01_2001.awb	True
+540002	External/Criware/BigWorld/Common/en/acsg01_2001.acb	External/Criware/BigWorld/Common/en/acsg01_2001.awb	True
+510005	External/Criware/BigWorld/Common/ja/acsg01_2003.acb	External/Criware/BigWorld/Common/ja/acsg01_2003.awb	True
+520005	External/Criware/BigWorld/Common/zh/acsg01_2003.acb	External/Criware/BigWorld/Common/zh/acsg01_2003.awb	True
+530005	External/Criware/BigWorld/Common/ca/acsg01_2003.acb	External/Criware/BigWorld/Common/ca/acsg01_2003.awb	True
+540005	External/Criware/BigWorld/Common/en/acsg01_2003.acb	External/Criware/BigWorld/Common/en/acsg01_2003.awb	True
+510003	External/Criware/BigWorld/Common/ja/acsg01_4001.acb	External/Criware/BigWorld/Common/ja/acsg01_4001.awb	True
+520003	External/Criware/BigWorld/Common/zh/acsg01_4001.acb	External/Criware/BigWorld/Common/zh/acsg01_4001.awb	True
+530003	External/Criware/BigWorld/Common/ca/acsg01_4001.acb	External/Criware/BigWorld/Common/ca/acsg01_4001.awb	True
+540003	External/Criware/BigWorld/Common/en/acsg01_4001.acb	External/Criware/BigWorld/Common/en/acsg01_4001.awb	True
+510006	External/Criware/BigWorld/Common/ja/BW_g_ui_kuroro.acb	External/Criware/BigWorld/Common/ja/BW_g_ui_kuroro.awb	True
+520006	External/Criware/BigWorld/Common/zh/BW_g_ui_kuroro.acb	External/Criware/BigWorld/Common/zh/BW_g_ui_kuroro.awb	True
+530006	External/Criware/BigWorld/Common/ca/BW_g_ui_kuroro.acb	External/Criware/BigWorld/Common/ca/BW_g_ui_kuroro.awb	True
+540006	External/Criware/BigWorld/Common/en/BW_g_ui_kuroro.acb	External/Criware/BigWorld/Common/en/BW_g_ui_kuroro.awb	True
+510007	External/Criware/BigWorld/Common/ja/acsg01_guidevoice.acb	External/Criware/BigWorld/Common/ja/acsg01_guidevoice.awb	True
+520007	External/Criware/BigWorld/Common/zh/acsg01_guidevoice.acb	External/Criware/BigWorld/Common/zh/acsg01_guidevoice.awb	True
+530007	External/Criware/BigWorld/Common/ca/acsg01_guidevoice.acb	External/Criware/BigWorld/Common/ca/acsg01_guidevoice.awb	True
+540007	External/Criware/BigWorld/Common/en/acsg01_guidevoice.acb	External/Criware/BigWorld/Common/en/acsg01_guidevoice.awb	True
+510008	External/Criware/BigWorld/Common/ja/acsg01_Scenevoice.acb	External/Criware/BigWorld/Common/ja/acsg01_Scenevoice.awb	True
+520008	External/Criware/BigWorld/Common/zh/acsg01_Scenevoice.acb	External/Criware/BigWorld/Common/zh/acsg01_Scenevoice.awb	True
+530008	External/Criware/BigWorld/Common/ca/acsg01_Scenevoice.acb	External/Criware/BigWorld/Common/ca/acsg01_Scenevoice.awb	True
+540008	External/Criware/BigWorld/Common/en/acsg01_Scenevoice.acb	External/Criware/BigWorld/Common/en/acsg01_Scenevoice.awb	True
+510009	External/Criware/BigWorld/Common/ja/acsg01_SystemVoice.acb	External/Criware/BigWorld/Common/ja/acsg01_SystemVoice.awb	True
+520009	External/Criware/BigWorld/Common/zh/acsg01_SystemVoice.acb	External/Criware/BigWorld/Common/zh/acsg01_SystemVoice.awb	True
+530009	External/Criware/BigWorld/Common/ca/acsg01_SystemVoice.acb	External/Criware/BigWorld/Common/ca/acsg01_SystemVoice.awb	True
+540009	External/Criware/BigWorld/Common/en/acsg01_SystemVoice.acb	External/Criware/BigWorld/Common/en/acsg01_SystemVoice.awb	True

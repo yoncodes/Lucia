@@ -1,0 +1,3 @@
+Id	SearchFaceType	SearchFaceApplyJoystick	SearchConePoint	SearchConeCutDistance	SearchConeAngle	SearchCircleRadius	PriorityDistanceWeight	PriorityAngleWeight
+1	1	1	80000	20000	1600000	250000	350000	100000
+2	1	1	80000	20000	1600000	250000	350000	350000

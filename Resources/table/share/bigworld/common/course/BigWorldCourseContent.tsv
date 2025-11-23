@@ -1,0 +1,4 @@
+ContentId	Name	ContentType	TaskProgressItemId	TaskProgressItemIcon	ExploreRewardId	Priority	ConditionIds
+101	Mission List	1	950000	Assets/Product/Texture/Atlas/BigWorld/Common/UiBigWorldProcess/UiBigWorldProcessIconEXP01White.png		3	
+102	Exploration Progress	2			7000141	2	
+103	Guide	3				1	

@@ -1,0 +1,3 @@
+Id	MaxRebootCount	RescueDistance	WaitingTime	RescueTime	HpRetain
+1	3	20000	999990000	30000	8000
+2	2	20000	999990000	30000	8000

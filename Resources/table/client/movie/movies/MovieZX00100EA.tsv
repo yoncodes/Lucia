@@ -1,0 +1,27 @@
+Id	ActionId	NextActionId	Type	IsBlock	IsEnd	BeginAnim	EndAnim	BeginDelay	EndDelay	Params
+1	1		101			AniZhuanchangEnd				{1: 'Assets/Product/Texture/Image/BgStory/BgStory965.png'}
+2	2		401							{1: '1', 2: '208'}
+3	3		201							{1: '1', 2: '1031001'}
+4	4		301			DialogEnable				{1: '1', 2: 'Liv', 3: 'Target... completely silent.', 4: '1'}
+5	5		203							{1: '1', 2: '0.25', 3: '-400'}
+6	6		201							{1: '2', 2: '1011001', 4: '400'}
+7	7		301							{1: '1', 2: 'Lee', 3: 'Sim battle complete, Commandant. What are your next orders?', 4: '2'}
+8	8		302							"{2: ""Nice work, everyone. Let's take a quick breather."", 3: '9'}"
+9	9		204							{1: '1', 2: '1'}
+10	10		301							"{2: 'Liv', 3: ""Same to you, Commandant. You've worked hard."", 4: '1'}"
+11	11		301							"{2: 'Lee', 3: ""Commandant, I've sorted the rest of the combat logs."", 4: '2'}"
+12	12		202							{1: '1', 2: '2'}
+13	13		301							{3: 'After exiting the sim, Lee hands over a report.'}
+14	14		201							{1: '1', 2: '1011001'}
+15	15		301				DialogDisable			"{1: '1', 2: 'Lee', 3: ""We'll be able to revisit these battles anytime through the review system."", 4: '1'}"
+16	16		302							{2: 'Alright, then.', 3: '17'}
+17	17		202							{1: '1', 6: '1'}
+18	18		401							{1: '2', 2: '4422'}
+19	19		507							{1: 'Assets/Product/Texture/Image/BgStory/BgStory0.png'}
+20	20		109							{1: '1', 2: '<color=#ffffffff><size=50>All main story chapters are now unlocked and available for reading.\\n\\nYou can start Chapters 2–3 while the rest of the resources finish downloading.</size></color>', 4: '90', 9: '3', 11: '1'}
+21	21		301							{3: '(All main story chapters are now unlocked and ready to read.\\nYou can start Chapters 2–3 while the rest of the resources finish downloading.)'}
+22	22		401							{1: '2', 2: '4423'}
+23	23		110							{1: '1'}
+24	24		508						200.0	
+25	25		201							{1: '1', 2: '1021001'}
+26	26		301		1	DialogEnable	AniZhuanchangBegin			"{1: '1', 2: 'Lucia', 3: ""Let's rest up a bit before the next mission begins."", 4: '1'}"

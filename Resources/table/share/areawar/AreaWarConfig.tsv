@@ -1,0 +1,10 @@
+Key	Desc	Values
+SkipLimit	Minimum|Maximum	['1', '2']
+SkipItemId	Auto Clear Ticket ID	['97023']
+RewardLimit	Support Reward Limit	['2']
+BackParam	Like Ratio	['0.8']
+DailyBattleNum	Refresh Battle + Rescued Stages Count	['3']
+DailyHelpNum	The amount of Distress Signals refreshed each time	['2']
+RobotHeadPortraits	List of Portraits available for Robots	['9000001']
+RobotHeadHeadFrames	List of Portrait Frames available for Robots	['9090008']
+RefreshNum	Distress Signal Refresh Count	['3']

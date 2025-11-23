@@ -1,0 +1,12 @@
+Id	OnlyRedPoint	TimeId	Condition	SkipId	Bg	ActivityType	RedPointConditions	Param	ManagerName
+1		42712	30406	89076	Assets/Product/Texture/Image/UiFubenActivity/MainBtnUiBigWorld.png	1	CONDITION_BIG_WORLD_SKY_GARDEN_ENTRANCE		
+2	1	42702	70111	20017	Assets/Product/Texture/Image/UiFubenActivity/MainBtnRift2.png	2	CONDITION_REPEAT_CHALLENGE_REWARD	574	
+3		42714		20310	Assets/Product/Texture/Image/UiFubenActivity/MainBtnLifuV400.png	2	CONDITION_FAVORABILITY_PLOT	1031005	
+4		42101	774800	20298	Assets/Product/Texture/Image/UiFubenActivity/MainBtnCibeizheLotto.png				
+5		42715	774800	11724	Assets/Product/Texture/Image/UiFubenActivity/MainBtnBossActivity10.png	1	CONDITION_ACTIVITYBRIE_BOSSSINGLE		
+6		42716	774800	89100	Assets/Product/Texture/Image/UiFubenActivity/MainBtnRace.png	1	CONDITION_RACE_MAIN		XRace
+7		42717	774800	89092	Assets/Product/Texture/Image/UiFubenActivity/MainBtnTheatre5season2.png	1	CONDITION_THEATRE5_MAIN		
+8		42718	774800	89092	Assets/Product/Texture/Image/UiFubenActivity/MainBtnTheatre5season2.png	1	CONDITION_THEATRE5_MAIN		
+9		42508	30406	89037	Assets/Product/Texture/Image/UiFubenActivity/ConnectingLineMainBtn004.png	1	CONDITION_CONNECTING_LINE		
+10		42719	774800	90010	Assets/Product/Texture/Image/UiFubenActivity/MainBtnStageMemory.png	1	CONDITION_STAGE_MEMORY		
+11		42720	30406	89075	Assets/Product/Texture/Image/UiFubenActivity/MainBtn2048V4P0.png	1	CONDITION_GAME2048_MAIN		

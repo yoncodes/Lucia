@@ -1,0 +1,8 @@
+UiName	IsModality	Priority	CustomModalityParams	SpecificModalityUi
+UiBigWorldMessageTips		1	['1']	
+UiBigWorldPopupTeach	True	3		
+UiBigWorldTaskObtain	True	2		
+UiBigWorldTaskObtainDrama	True	3		
+UiBigWorldTaskObtainDramaHeart	True	3		
+UiBigWorldRewardSidebar	True	4		
+UiBigWorldPopupMessageSingle	True	1		

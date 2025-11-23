@@ -1,0 +1,4 @@
+Id	Type	UiType	Name	Icon	Text	PrefabPath	Duration	IsMask	MaskTarget	ClickKey	Params
+	1	1	Li Yinqi	1	MovieTalk Table - Li Yinqi		0				
+969927001	5	1	Test NPC		You need to look around for something you can use to fix this elevator.		3				
+969927002	5	1	Test NPC		Nice! Now go over to the elevator, stick it in, and give it a little tap. That should do it.		4				

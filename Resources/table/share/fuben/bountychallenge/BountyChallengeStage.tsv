@@ -1,0 +1,5 @@
+Id	StageDescription	GameplayDescription	VideoConfigId
+1	Enhanced Raydiance Judgment	"[""When Hybrid's HP is below the threshold, Bianca: Crepuscule's Basic Attacks can cast Enhanced Raydiance Judgment, dealing extra Raydiance DMG.""]"	[30021]
+2	Throw - Invasion Collapse	['Lloyd rushes to the target, captures it, and then unleashes laser to deal massive damage. Dodge to avoid his attack. A successful dodge will deal damage to him.']	[30022]
+3	Throw - Crystal Storm	['Powered charges on the spot, releasing an electromagnetic pulse. Upon hitting the target, it will be stunned and knocked back.']	[30023]
+4	Grip - Corrupting Grasp	['In the Knight Form, Enora Lueya throws out the armor arm that will throw the enemy onto the ground on hit.', 'In the Knight Form, Enora Lueya lets out a battle cry, stuns the enemy, catches the enemy, and then follows up with a headbutt at the enemy.']	[30025, 30024]

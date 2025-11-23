@@ -1,0 +1,43 @@
+TaskId	ContentId	UnlockType	UnlockParams	ConditionId	Title	UnlockText	SkipId	TimeId
+990000	101	1			Space Leap - 1		200102	
+990001	101	2	[990000]		Space Leap - 2		200102	
+990002	101	2	[990001]		Space Leap - 3		200102	
+990003	101	2	[990002]		Space Leap - 4		200102	
+990004	101	2	[990003]		Space Leap - 5		200102	
+990005	101	2	[990004]		Space Leap - 6		200102	
+990006	101	1			Space Leap - All Stage Challenge		200102	
+990007	101	1			Supply Crate Collection - 1		200102	
+990008	101	2	[990007]		Supply Crate Collection - 2		200102	
+990009	101	2	[990008]		Supply Crate Collection - 3		200102	
+990010	101	2	[990009]		Supply Crate Collection - Complete Collection Challenge		200102	
+990011	101	1			Kuroro Coffee - Prologue	Unlocks Kuroro Coffee mode	990011	
+990012	101	2	[990011]		Kuroro Coffee - Business Record - 1		990012	
+990013	101	2	[990012]		Kuroro Coffee - Business Record - 2		990013	
+990014	101	2	[990013]		Kuroro Coffee - Business Record - 3		990014	
+990015	101	2	[990014]		Kuroro Coffee - Business Record - 4		990015	
+990016	101	2	[990015]		Kuroro Coffee - Business Record - 5		990016	
+990017	101	2	[990016]		Kuroro Coffee - Business Record - 6		990017	
+990018	101	2	[990017]		Kuroro Coffee - Signature Mix - 1		990018	
+990019	101	2	[990018]		Kuroro Coffee - Signature Mix - 2		990019	
+990020	101	2	[990019]		Kuroro Coffee - Signature Mix - 3		990020	
+990021	101	2	[990020]		Kuroro Coffee - Signature Mix - 4		990021	
+990022	101	2	[990021]		Kuroro Coffee - Signature Mix - 5		990022	
+990023	101	2	[990022]		Kuroro Coffee - Signature Mix - 6		990023	
+990024	101	2	[990023]		Kuroro Coffee - Signature Mix - 7		990024	
+990025	101	2	[990024]		Kuroro Coffee - Signature Mix - 8		990025	
+990026	101	2	[990025]		Kuroro Coffee - Signature Mix - 9		990026	
+990027	101	2	[990026]		Kuroro Coffee - Signature Mix - 10		990027	
+990028	101	2	[990011]		Kuroro Coffee - All Stage Challenge		990028	
+990029	101	3	[50001024]		Business Tycoon - Prologue	Unlocks Business Development Plan	990029	
+990030	101	2	[990029]		Business Development Plan - 1		990030	
+990031	101	2	[990030]		Business Development Plan - 2		990031	
+990032	101	2	[990031]		Business Development Plan - 3		990032	
+990033	101	2	[990032]		Business Development Plan - 4		990033	
+990034	101	2	[990033]		Business Development Plan - 5		990034	
+990035	101	2	[990034]		Business Development Plan - 6		990035	
+990036	101	2	[990029]		Business Development Plan - All Stage Challenge		990036	
+990037	101	1			Break Time	Unlocks Commandant's lounge	990037	
+990046	101	3	[50001500]		Whispers of Love Mission - Beyond Time's Shore		990040	
+990047	101	3	[50001027]		Rumor Mission - A Tap on the Heart		990038	
+990048	101	3	[50001028]		Rumor Mission - Mechanoid Carnival		990039	
+990049	101	1			Commercial District - All Mission Challenge		990041	

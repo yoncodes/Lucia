@@ -1,0 +1,13 @@
+Id	Name	Index	Type	ResIds	Desc	Banner	PreIds	DownloadTaskId
+201	[Infection] Main Story Pack	1	1	[201]	Contains the necessary resources required for [Infection] and subsequent main story stages.			
+202	[Whirlpool] Main Story Pack	2	1	[202]	Contains the necessary resources required for [Whirlpool] and subsequent main story stages.		[201]	
+203	[Catastrophe] Main Story Pack	3	1	[203]	Contains the necessary resources required for [Catastrophe] and subsequent main story stages.		[201, 202]	
+204	[Destiny] Main Story Pack	4	1	[204]	Contains the necessary resources required for [Destiny] and subsequent main story stages.		[201, 202, 203]	
+401	Babylonia	1	2	[301, 402, 403]	Necessary resources for experiencing Babylonia			
+901	Cantonese Voiceover	1	2	[901]	Can use Cantonese voiceover once it's downloaded.			
+902	Japanese Voiceover	2	2	[902]	Can use Japanese voiceover once it's downloaded.			
+903	English Voiceover	3	2	[903]	Can use English voiceover once it's downloaded.			
+904	Story Video	4	2	[1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053]	Download to play all story videos.			
+905	Game Mode Video	5	2	[2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007]	Download to play all game mode videos.			
+3000	Theme Music	6	2	[3000, 3001, 3002]	Necessary resources for using Music Player in Main Interface and Music Box in Guild			
+9999	Expansion Pack	5	1	[9999]	Contains the necessary resources required for new main story stages and events.		[201, 202, 203, 204]	
